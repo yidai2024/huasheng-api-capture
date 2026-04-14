@@ -1,0 +1,887 @@
+[
+  {
+    "url": "https://www.huasheng.cn/",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:24.047216",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://i0.hdslb.com/bfs/activity-plat/static/20241209/dee300675477a7848cfc87c80806f3bd/4VrojJSh2n.jpg@124x124-5rc",
+    "method": "GET",
+    "domain": "i0.hdslb.com",
+    "path": "/bfs/activity-plat/static/20241209/dee300675477a7848cfc87c80806f3bd/4VrojJSh2n.jpg@124x124-5rc",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:24.257465",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=333.1333&nscode=0&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=333.1333&nscode=0&unlimit=true",
+    "timestamp": "2026-04-14T19:37:29.457418",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"\",\"data\":{\"versionId\":\"1772162031366\",\"appVersionId\":\"37253\",\"disableUseLocalCache\":false,\"data\":{\"bilimirror.minilogin\":\"{\\\"buvid\\\":[\\\"B6771AA6-7CCD-4EF2-BA5B-1FDE9A25F49A49120infoc\\\",\\\"D025573B-8686-0D9D-48DB-0C84BBB5544A45226infoc\\\",\\\"9BD89CEC-4C19-E243-63B3-9A69417B70A458220infoc\\\",\\\"4AD0D8C7-D936-FB67-4C33-7A13C004E84478537infoc\\\",\\\"84AF2B23-9DC9-0717-A474-BCB7A866198994970infoc\\\",\\\"F4373CB5-E491-2C2A-0541-2FFFC3DF2FCC71448infoc\\\"],\\\"rate\\\":0}\",\"bilimirror.toplist\":\"{\\\"playLogUmd\\\":\\\"https://s1.hdslb.com/bfs/static/log-manipulator@0.2.1/index.js\\\",\\\"trackGray\\\":0,\\\"trackGrayV2\\\":1,\\\"resourceStats\\\":{\\\"enabled\\\":true,\\\"sampleRate\\\":0,\\\"rules\\\":[{\\\"key\\\":\\\"333.1007.main.home-page\\\",\\\"sampleRate\\\":5}]}}\",\"bilimirror.whitelist\":\"{\\\"white\\\":{\\\"rejection\\\":[\\\"extension\\\",\\\"maximum\\\",\\\"SVGIconNext\\\"],\\\"error\\\":[\\\"extension\\\",\\\"SVGIconNext\\\"],\\\"resource\\\":[\\\"extension\\\",\\\"localhost\\\"]},\\\"retry\\\":[],\\\"performance\\\":1,\\\"techpv\\\":5,\\\"poll\\\":5,\\\"userLog\\\":[],\\\"track\\\":{\\\"mid\\\":[],\\\"buvid\\\":[]},\\\"trackGrayV2\\\":1}\"}}}"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=333.40121&nscode=0&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=333.40121&nscode=0&unlimit=true",
+    "timestamp": "2026-04-14T19:37:29.460121",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":-404,\"message\":\"Appkey Not Found\"}"
+  },
+  {
+    "url": "https://api.huasheng.cn/x/web-interface/nav",
+    "method": "GET",
+    "domain": "api.huasheng.cn",
+    "path": "/x/web-interface/nav",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:29.462060",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":-101,\"message\":\"账号未登录\",\"ttl\":1,\"data\":{\"isLogin\":false,\"wbi_img\":{\"img_url\":\"https://i0.hdslb.com/bfs/wbi/7cd084941338484aae1ad9425b84077c.png\",\"sub_url\":\"https://i0.hdslb.com/bfs/wbi/4932caff0ff746eab6f01bf08b70ac45.png\"},\"ip_region\":\"CN\"}}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/vip/info",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/vip/info",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:29.462403",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"code\":401,\"reason\":\"账号未登录\",\"message\":\"账号未登录\",\"metadata\":{}}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/config",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/config",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:29.462736",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"voices\":[{\"id\":\"5\",\"voice\":\"male-qn-jingying\",\"desc\":\"生动解说\"},{\"id\":\"6\",\"voice\":\"hutong_daye\",\"desc\":\"北京小伙\"},{\"id\":\"7\",\"voice\":\"audiobook_female_2\",\"desc\":\"新闻主播\"},{\"id\":\"8\",\"voice\":\"audiobook_male_1\",\"desc\":\"磁性男声\"},{\"id\":\"1\",\"voice\":\"zhubo\",\"desc\":\"青年主播(已下线)\"},{\"id\":\"2\",\"voice\":\"db6\",\"desc\":\"温柔女声(已下线)\"},{\"id\":\"3\",\"voice\":\"db8\",\"desc\":\"磁性男声(已下线)\"},{\"id\":\"4\",\"voice\":\"jieshuonannew\",\"desc\":\"解说男声(已下线)\"}],\"script_max\":\"10000\",\"models\":[{\"id\":\"10\",\"desc\":\"Index\"}],\"export_annotation\":false,\"user_material_max\":\"200\",\"audio_script_max\":\"50000\",\"content_markup_multiple\":\"3\",\"default_script\":\"「花生」可以做高大上的科普视频。比如，种花生要注意什么？花生是喜温作物，适宜生长在温暖湿润、排水性好的沙质壤土中，土壤酸碱度以中性为宜。它对光照和温度要求较高，生长期需要充足光照，日均气温保持在20℃以上更利于生长发育。全球核心种植区集中在北半球温带及亚热带地区，我国山东、河南、河北是主要产区，产量占全国多数，所产花生颗粒饱满、含油率高。此外，美国东南部、印度、阿根廷等国也广泛栽培。「花生」也可以讲历史。比如，花生的原产地在什么地方？花生原产于南美洲，16世纪明代中晚期经海路传入中国，福建、广东为最早引种地。小花生因耐贫瘠、适应性强，先在东南沿海扎根，清代向北推广至山东、河南等产区。明代已有煮食、炒制吃法，清代吃法更丰富，19世纪中后期大花生成为主流，花生油走入寻常百姓家，四百年间从闲食变为餐桌必备食材。「花生」还能聊聊商业财经上的财富密码。比如，中国作为全球花生产量、消费、进口三料冠军，2024年产量近1900万吨，占全球38%，年产值稳稳站上千亿级别。全球贸易中，中国既是73.4万吨的出口大户，也是151万吨的进口主力，从原料到深加工产品形成完整产业链。消费升级下，高端食用油、健康零食持续扩容，这颗小花生正撬动大市场。「花生」是一个输入文案或口播帮你自动找素材、剪辑成片的工具。不管你是喜欢用键盘噼里啪啦敲出灵感的文字大佬，还是更爱用语音滔滔不绝表达的话痨选手，都能在花生这儿找到最丝滑的创作体验。「花生」还有超多隐藏玩法等着各位解锁！赶紧去探索吧~\",\"default_voice_id\":6036542,\"report_tag\":[{\"cat_name\":\"风险\",\"tags\":[{\"tid\":\"1\",\"name\":\"敏感人物或物品\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"2\",\"name\":\"违法违规\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"3\",\"name\":\"色情低俗\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"4\",\"name\":\"引人不适\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"恶心、暴力等\"},{\"tid\":\"5\",\"name\":\"侵权\",\"is_show_more\":true,\"show_more_must\":false,\"detail\":\"著作权、肖像权等\"}]},{\"cat_name\":\"匹配\",\"tags\":[{\"tid\":\"6\",\"name\":\"重复出现\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"7\",\"name\":\"素材画风突兀\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"8\",\"name\":\"不相关\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"}]},{\"cat_name\":\"更多\",\"tags\":[{\"tid\":\"9\",\"name\":\"不清晰\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"10\",\"name\":\"有水印或字幕\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"11\",\"name\":\"黑边\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"12\",\"name\":\"其他\",\"is_show_more\":true,\"show_more_must\":true,\"detail\":\"\"}]}],\"tts_speed_switch\":true}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/abtest?ab_var=front_montage",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/abtest",
+    "query": "ab_var=front_montage",
+    "timestamp": "2026-04-14T19:37:29.463098",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"ab_flag\":\"\"}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/abtest?ab_var=montage_composite",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/abtest",
+    "query": "ab_var=montage_composite",
+    "timestamp": "2026-04-14T19:37:29.463426",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"ab_flag\":\"\"}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/abtest?ab_var=podcast_mtq",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/abtest",
+    "query": "ab_var=podcast_mtq",
+    "timestamp": "2026-04-14T19:37:29.463762",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"ab_flag\":\"\"}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/abtest?ab_var=local_recall",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/abtest",
+    "query": "ab_var=local_recall",
+    "timestamp": "2026-04-14T19:37:29.464069",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"ab_flag\":\"\"}"
+  },
+  {
+    "url": "https://api.huasheng.cn/x/activity_components/eva_operation/list?source_id=29ERAmwloghvktd00&pn=1&ps=50",
+    "method": "GET",
+    "domain": "api.huasheng.cn",
+    "path": "/x/activity_components/eva_operation/list",
+    "query": "source_id=29ERAmwloghvktd00&pn=1&ps=50",
+    "timestamp": "2026-04-14T19:37:29.464646",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"0\",\"ttl\":1,\"data\":{\"list\":[{\"id\":\"30ERA4wloghviey00\",\"source_id\":\"29ERAmwloghvktd00\",\"object_id\":\"BV14NUVBTEjU\",\"object_type\":1,\"properties\":{},\"state\":1,\"children\":[],\"order_id\":21,\"ctime\":1765779297,\"mtime\":1766030691,\"author\":\"\",\"object\":{\"account\":{\"face\":\"https://i1.hdslb.com/bfs/face/c6712277697434a6dc40c0185c0108c39b2fc6fa.jpg\",\"follower\":10821849,\"following\":{\"follower\":10821849},\"is_follow\":false,\"level\":6,\"mid\":37090048,\"name\":\"哔哩哔哩创作中心\",\"official\":{\"desc\":\"\",\"role\":3,\"title\":\"哔哩哔哩创作中心官方账号\",\"type\":1},\"sex\":\"保密\",\"sign\":\"这里是跟着荣誉周报改签名赢好运的可爱创作君！用心支持创作、扶持up主成长，这里有创作中心新功能/使用指导/创作学院/激励计划一手情报！\",\"vip\":{\"avatar_icon\":{\"icon_resource\":{},\"icon_type\":1},\"avatar_subscript\":1,\"avatar_subscript_url\":\"\",\"due_date\":1960214400000,\"label\":{\"bg_color\":\"#FB7299\",\"bg_style\":1,\"border_color\":\"\",\"img_label_uri_hans\":\"\",\"img_label_uri_hans_static\":\"https://i0.hdslb.com/bfs/vip/adb599797dd171e2d3d6d012f448b49679258344.png\",\"img_label_uri_hant\":\"\",\"img_label_uri_hant_static\":\"https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/sGu57N6pgK.png\",\"label_goto\":{\"mobile\":\"https://big.bilibili.com/mobile/index?navhide=1\\u0026from_spmid=vipicon\",\"pc_web\":\"https://account.bilibili.com/big?from_spmid=vipicon\"},\"label_id\":-22,\"label_theme\":\"ten_annual_vip\",\"path\":\"http://i0.hdslb.com/bfs/vip/label_annual.png\",\"text\":\"十年大会员\",\"text_color\":\"#FFFFFF\",\"use_img_label\":true},\"nickname_color\":\"#FB7299\",\"ott_info\":{\"overdue_time\":1624118400,\"pay_channel_id\":\"alipay\",\"pay_type\":0,\"status\":0,\"vip_type\":1},\"role\":7,\"status\":1,\"super_vip\":{\"is_super_vip\":false},\"theme_type\":0,\"tv_due_date\":1624118400,\"tv_vip_pay_type\":0,\"tv_vip_status\":0,\"type\":2,\"vip_pay_type\":0}},\"aid\":115602266000356,\"attribute\":16793984,\"attribute_v2\":268500992,\"cid\":34219624936,\"copyright\":1,\"cover43\":\"http://i2.hdslb.com/bfs/archive/9b601dba1132c8946ddb9d00c4fadc106b1ddf53.jpg\",\"ctime\":1763950893,\"desc\":\"🪄即刻体验「花生」：使用电脑Chrome或Edge浏览器打开\\n🥜https://www.huasheng.cn\",\"dimension\":{\"height\":1080,\"rotate\":0,\"width\":1920},\"duration\":133,\"dynamic\":\"\",\"first_frame\":\"http://i0.hdslb.com/bfs/storyff/_0000302n9liz36gd626m8yqwyllhybb_firsti.jpg\",\"owner\":{\"face\":\"https://i1.hdslb.com/bfs/face/c6712277697434a6dc40c0185c0108c39b2fc6fa.jpg\",\"mid\":37090048,\"name\":\"哔哩哔哩创作中心\"},\"pic\":\"http://i2.hdslb.com/bfs/archive/74cd620b2df33b1bc93a7d04b13b69ab0bd3d449.jpg\",\"pid_name_v2\":\"人工智能\",\"pid_v2\":1011,\"pub_location\":\"上海\",\"pubdate\":1763964000,\"rights\":{\"arc_pay\":0,\"autoplay\":1,\"bp\":0,\"download\":0,\"elec\":0,\"hd5\":1,\"is_cooperation\":1,\"movie\":0,\"no_background\":0,\"no_reprint\":1,\"pay\":0,\"pay_free_watch\":0,\"ugc_pay\":0,\"ugc_pay_preview\":0},\"short_link_v2\":\"https://b23.tv/BV14NUVBTEjU\",\"stat\":{\"aid\":115602266000356,\"coin\":556,\"danmaku\":29,\"dislike\":0,\"fav_g\":32,\"favorite\":1935,\"his_rank\":0,\"like\":2990,\"like_g\":1,\"now_rank\":0,\"reply\":570,\"share\":460,\"view\":95495,\"vt\":59957,\"vv\":95495},\"state\":0,\"tid\":230,\"tidv2\":2098,\"title\":\"请喂我花生！视频创作工具上线\",\"tname\":\"软件应用\",\"tnamev2\":\"AI杂谈\",\"videos\":1,\"vt_display\":"
+  },
+  {
+    "url": "https://s1.hdslb.com/bfs/seed/jinkela/short/cols/iframe.html",
+    "method": "GET",
+    "domain": "s1.hdslb.com",
+    "path": "/bfs/seed/jinkela/short/cols/iframe.html",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:29.476872",
+    "headers": {
+      "accept-language": "zh-CN",
+      "referer": "https://www.huasheng.cn/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://i0.hdslb.com/bfs/polaris_web_conf/polaris/webcnf/event.cnf",
+    "method": "GET",
+    "domain": "i0.hdslb.com",
+    "path": "/bfs/polaris_web_conf/polaris/webcnf/event.cnf",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:29.477231",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"444.8.live-room.chronos.init.before.check\":50,\"333.788.memory.timeline.performance\":50,\"444.8.live-room.uam-player.welcome.failed\":50,\"333.1334.kv-init.error\":1,\"333.1334.kv-init.pv\":1,\"333.40181.secureCollect.collectDeviceInfo\":1,\"333.40181.secureCollect.successReport\":1,\"333.40181.secureCollect.wasmProcessTime\":1,\"444.8.live-room.room-page.live-web-danmaku-tech-report\":20}"
+  },
+  {
+    "url": "https://api.bilibili.com/x/frontend/finger/spi_v2",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/frontend/finger/spi_v2",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:29.482532",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"data\":{\"b_3\":\"B88FB0D7-576F-3B96-55AA-3D5505F7A28445202infoc\",\"b_4\":\"185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww==\"},\"message\":\"ok\"}"
+  },
+  {
+    "url": "https://data.huasheng.cn/v2/log/web?content_type=pbrequest&logid=021436&disable_compression=true",
+    "method": "POST",
+    "domain": "data.huasheng.cn",
+    "path": "/v2/log/web",
+    "query": "content_type=pbrequest&logid=021436&disable_compression=true",
+    "timestamp": "2026-04-14T19:37:29.494002",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "text/plain",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://api.bilibili.com/x/internal/gaia-gateway/ExGetAxe",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/internal/gaia-gateway/ExGetAxe",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:29.502956",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"0\",\"ttl\":1,\"data\":{\"version\":\"v1\",\"public_key\":\"-----BEGIN rsa public key-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA1SomDTbicibEZdRNTFIf\\nG0MZI9Vm+VLvXvoS6YGtHkMexd+O8ImALMxiMkydZ0h5XPPfiUXGiyfWawVW1Q6Q\\nL8E9HV8tXgI82zMc/2ZnAyAp5dACWfcsqF1lH4hh63W424c9EJ/Ryqk4ZFss+vDr\\nn33+FN1LOyJtg8nPqCt9DN9PFaRvJTEXT0Bt2ZQTiSznHPIpalgHUNsg1OPV3ou9\\n5ahf5CpRl89QeIptrbObEqsmRqC0rDwsMUhY1NnvPKGYnCqOWl006q6OBP77qHa9\\nHRLZS0EuCEuLUnKRQq2vbbpqKrgIQln+HjMy4oIjV7Bdv9e6SJSxwausegaCQ+pt\\nIzy6O41iIQSISCRf+2iywvKGxvi3Jhhc39GxvhBPl9W3QF4knJmWHHbqAb94mDNE\\nT0GzjbU6c3j7FJcC2JjK7PeC44+VSyiY7N+9Dc0ulw7OIoigPl+R6zyWEPCdKems\\n9Cd8vn/njM+o7BRaBzyqJSYSOjQQiQHJYzcMRhhue/2W1wSx2S9Ry/zNvpP/Qapw\\n4Z6IlDt+wL9omIwcFMndUruAaRKQEDgDRKZHspUIRkXhCiaV4MwUH1rF6EFq8BRc\\nIsoS5O0o8ew5mzW81q2I1Mkvx2wDRyX9+zlVBMkKAvv3xMzU5l7sUM1eP3tw3mhg\\n6D6utwZfuFFb7Zj1oGJq4VMCAwEAAQ==\\n-----END rsa public key-----\",\"deadline\":2524608000}}"
+  },
+  {
+    "url": "https://api.bilibili.com/x/internal/gaia-gateway/ExClimbCongLing",
+    "method": "POST",
+    "domain": "api.bilibili.com",
+    "path": "/x/internal/gaia-gateway/ExClimbCongLing",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:29.505410",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "accept-language": "zh-CN,zh;q=0.8,en;q=0.7",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "accept": "application/json; charset=utf-8; */*;",
+      "content-type": "application/json"
+    },
+    "post_data": "{\"header\":{\"encode_type\":2,\"payload_type\":4,\"encoded_aes_key\":\"oIVwkjdScPVHGsasnH+UZgUNlEyCKK/zGygvibza7+lc7C7Q4uAold1h1EVCWkuL6fD3VKw0CyhlqCVd2m30bJYS4Mk1zXT66q+hqHrF4+9lU6BdqpgoWvTJx5tT/AtcGUp8+CW/CP+CUOmkPoliP1F8vrPYDPCxjX7/ekKpLYb+gfxmnPNygIgAkGmsqudhG3XlejIyZYo8n3FZvO1Jf99MvehBH7mm0xR2olkgyC5OutQZAraer+GtK4Ufz51KMa9EYYMtPnsc5zHUDPpYtlDTU0P4xCbRFntXDKlJVBVAdTGx7zSDfcU6bRGqDmdzlDAtv16LHorIWTsfyg1FxpkcHxokm34wAm3m1AnzvmST4uO+PWDVNpRrX6p/AYkagQT9Dd+8YahOnEJh5yGUvZcLyUOgmod/Ko200a0BbhL3KWlJNxF9s7q02J571BlTgt/QI7xJX3dCuVTELtDFlRQg88JwuolFCyYup1QfCIe4GFI/r6Qwu8lO3WUe8zGul7voQfStol8FUEnetQM3pkyKAhJiMRSPZ5t3Lhwy0UHOs1w2GmEpUZA0b+OXFYJeHbfpQNiZeAr3U89wtduJ/9TnxtgqUihpNGB6cXY+XSiNBKkpXOXNbk+baNWlU4lj5sCuoPfVQ2udGczu1moOp1GAWZkWp2MeI0e6lhi5QgE=\",\"ts\":1776195445818,\"encoded_version\":\"v1\"},\"encrypt_payload\":\"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",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"0\",\"ttl\":1,\"data\":{}}"
+  },
+  {
+    "url": "https://data.huasheng.cn/v2/log/web?content_type=pbrequest&logid=021434&disable_compression=true",
+    "method": "POST",
+    "domain": "data.huasheng.cn",
+    "path": "/v2/log/web",
+    "query": "content_type=pbrequest&logid=021434&disable_compression=true",
+    "timestamp": "2026-04-14T19:37:29.507900",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "text/plain",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/blackboard/era/xvQno42uu09wWtUl.html",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:38.021962",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=333.1339&nscode=1&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=333.1339&nscode=1&unlimit=true",
+    "timestamp": "2026-04-14T19:37:38.303847",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"\",\"data\":{\"versionId\":\"1739341305266\",\"appVersionId\":\"37035\",\"disableUseLocalCache\":false,\"data\":{\"fallback.dft\":\"5\",\"fallback.i\":\"[1,2,2]\",\"fallback.on\":\"1\"}}}"
+  },
+  {
+    "url": "https://data.bilibili.com/v2/log/web?content_type=pbrequest&logid=021436&disable_compression=true",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/v2/log/web",
+    "query": "content_type=pbrequest&logid=021436&disable_compression=true",
+    "timestamp": "2026-04-14T19:37:38.426982",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "text/plain",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=333.1333&nscode=0&versionId=1772162031366&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=333.1333&nscode=0&versionId=1772162031366&unlimit=true",
+    "timestamp": "2026-04-14T19:37:38.427537",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":-304,\"message\":\"Not Modified\"}"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000141776195458418https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html||888.136894.0.0|1776195458418||1920x1080|1|{%22page_id%22:%223ERAxwloghvnb800%22,%22era_source%22:null,%22share_source%22:null,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:null,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}|D4C1059D1-7584-10C10E-6434-10C7BB82F610AB58418infoc|zh-CN|null|undefined",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000141776195458418https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html||888.136894.0.0|1776195458418||1920x1080|1|{%22page_id%22:%223ERAxwloghvnb800%22,%22era_source%22:null,%22share_source%22:null,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:null,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}|D4C1059D1-7584-10C10E-6434-10C7BB82F610AB58418infoc|zh-CN|null|undefined",
+    "timestamp": "2026-04-14T19:37:38.427937",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=888.136894&nscode=0&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=888.136894&nscode=0&unlimit=true",
+    "timestamp": "2026-04-14T19:37:38.465064",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":-404,\"message\":\"Appkey Not Found\"}"
+  },
+  {
+    "url": "https://api.bilibili.com/x/internal/gaia-gateway/ExClimbWuzhi",
+    "method": "POST",
+    "domain": "api.bilibili.com",
+    "path": "/x/internal/gaia-gateway/ExClimbWuzhi",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:41.505931",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "application/json;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": "{\"payload\":\"{\\\"3064\\\":1,\\\"5062\\\":\\\"1776195458648\\\",\\\"03bf\\\":\\\"https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html\\\",\\\"39c8\\\":\\\"888.136894.fp.risk\\\",\\\"34f1\\\":\\\"\\\",\\\"d402\\\":\\\"\\\",\\\"654a\\\":\\\"\\\",\\\"6e7c\\\":\\\"1920x1080\\\",\\\"3c43\\\":{\\\"2673\\\":0,\\\"5766\\\":24,\\\"6527\\\":0,\\\"7003\\\":1,\\\"807e\\\":1,\\\"b8ce\\\":\\\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\\\",\\\"641c\\\":0,\\\"07a4\\\":\\\"zh-CN\\\",\\\"1c57\\\":8,\\\"0bd0\\\":8,\\\"748e\\\":[1920,1080],\\\"d61f\\\":[1920,1080],\\\"fc9d\\\":0,\\\"6aa9\\\":\\\"UTC\\\",\\\"75b8\\\":1,\\\"3b21\\\":1,\\\"8a1c\\\":0,\\\"d52f\\\":\\\"not available\\\",\\\"adca\\\":\\\"Linux x86_64\\\",\\\"80c9\\\":[],\\\"13ab\\\":\\\"94oAAAAASUVORK5CYII=\\\",\\\"bfe9\\\":\\\"//8cxNnQAAAAZJREFUAwA1xAD/yjOy7AAAAABJRU5ErkJggg==\\\",\\\"a3c1\\\":[\\\"extensions:ANGLE_instanced_arrays;EXT_blend_minmax;EXT_clip_control;EXT_color_buffer_half_float;EXT_depth_clamp;EXT_float_blend;EXT_frag_depth;EXT_polygon_offset_clamp;EXT_shader_texture_lod;EXT_texture_compression_bptc;EXT_texture_compression_rgtc;EXT_texture_filter_anisotropic;EXT_texture_mirror_clamp_to_edge;EXT_sRGB;OES_element_index_uint;OES_fbo_render_mipmap;OES_standard_derivatives;OES_texture_float;OES_texture_float_linear;OES_texture_half_float;OES_texture_half_float_linear;OES_vertex_array_object;WEBGL_color_buffer_float;WEBGL_compressed_texture_astc;WEBGL_compressed_texture_etc;WEBGL_compressed_texture_etc1;WEBGL_compressed_texture_s3tc;WEBGL_compressed_texture_s3tc_srgb;WEBGL_debug_renderer_info;WEBGL_debug_shaders;WEBGL_depth_texture;WEBGL_draw_buffers;WEBGL_lose_context;WEBGL_multi_draw;WEBGL_polygon_mode\\\",\\\"webgl aliased line width range:[1, 1]\\\",\\\"webgl aliased point size range:[1, 1023]\\\",\\\"webgl alpha bits:8\\\",\\\"webgl antialiasing:yes\\\",\\\"webgl blue bits:8\\\",\\\"webgl depth bits:24\\\",\\\"webgl green bits:8\\\",\\\"webgl max anisotropy:16\\\",\\\"webgl max combined texture image units:64\\\",\\\"webgl max cube map texture size:16384\\\",\\\"webgl max fragment uniform vectors:4096\\\",\\\"webgl max render buffer size:8192\\\",\\\"webgl max texture image units:32\\\",\\\"webgl max texture size:8192\\\",\\\"webgl max varying vectors:31\\\",\\\"webgl max vertex attribs:16\\\",\\\"webgl max vertex texture image units:32\\\",\\\"webgl max vertex uniform vectors:4096\\\",\\\"webgl max viewport dims:[8192, 8192]\\\",\\\"webgl red bits:8\\\",\\\"webgl renderer:WebKit WebGL\\\",\\\"webgl shading language version:WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)\\\",\\\"webgl stencil bits:0\\\",\\\"webgl vendor:WebKit\\\",\\\"webgl version:WebGL 1.0 (OpenGL ES 2.0 Chromium)\\\",\\\"webgl unmasked vendor:Google Inc. (Google)\\\",\\\"webgl unmasked renderer:ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)\\\",\\\"webgl vertex shader high float precision:23\\\",\\\"webgl vertex shader high float precision rangeMin:127\\\",\\\"webgl vertex shader high float precision rangeMax:127\\\",\\\"webgl vertex shader medium float precision:10\\\",\\\"webgl vertex shader medium float precision rangeMin:15\\\",\\\"webgl vertex shader medium float precision rangeMax:15\\\",\\\"webgl vertex shader low float precision:10\\\",\\\"webgl vertex shader low float precision rangeMin:15\\\",\\\"webgl vertex shader low float precision rangeMax:15\\\",\\\"webgl fragment shader high float precision:23\\\",\\\"webgl fragment shader high float precision rangeMin:127\\\",\\\"webgl fragment shader high float precision rangeMax:127\\\",\\\"webgl fragment shader medium float precision:10\\\",\\\"webgl fragment shader medium float precision rangeMin:15\\\",\\\"webgl fragment shader medium float precision rangeMax:15\\\",\\\"webgl fragment shader low float precision:10\\\",\\\"webgl fragment shader low float precision rangeMin:15\\\",\\\"webgl fragment shader low float precision rangeMax:15\\\",\\\"webgl vertex shader high int precision:0\\\",\\\"webgl vertex shader high int precision rangeMin:31\\\",\\\"webgl vertex shader high int precision rangeMax:30\\\",\\\"webgl vertex shader medium int precision:0\\\",\\\"webgl vertex shader medium int precision rangeMin:15\\\",\\\"webgl vertex shader medium int precision rangeMax:14\\\",\\\"webgl vertex shader low int precision:0\\\",\\\"webgl vertex shader low int precision rangeMin:15\\\",\\\"webgl vertex shader low int precision rangeMax:14\\\",\\\"webgl fragment shader high int precision:0\\\",\\\"webgl fragment shader high int precision rangeMin:31\\\",\\\"webgl fragment shader high int precision rangeMax:30\\\",\\\"webgl fragment shader medium int precision:0\\\",\\\"webgl fragment shader medium int precision rangeMin:15\\\",\\\"webgl fragment shader medium int precision rangeMax:14\\\",\\\"webgl fragment shader low int precision:0\\\",\\\"webgl fragment shader low int precision rangeMin:15\\\",\\\"webgl fragment shader low int precision rangeMax:14\\\"],\\\"6bc5\\\":\\\"Google Inc. (Google)~ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)\\\",\\\"ed31\\\":0,\\\"72bd\\\":1,\\\"097b\\\":0,\\\"52cd\\\":[0,0,0],\\\"a658\\\":[],\\\"d02f\\\":\\\"124.04347527516074\\\"},\\\"54ef\\\":\\\"{}\\\",\\\"8b94\\\":\\\"\\\",\\\"df35\\\":null,\\\"07a4\\\":\\\"zh-CN\\\",\\\"5f45\\\":null,\\\"db46\\\":0}\"}",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"0\",\"ttl\":1,\"data\":{}}"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0133241776195458665https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.fp.pv||1776195458665|||1920x1080|1|{%22b_nut_s%22:1776195445,%22b_nut_m%22:1776195420,%22b_nut_h%22:1776193200,%22b_nut_d%22:1776124800,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|0",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0133241776195458665https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.fp.pv||1776195458665|||1920x1080|1|{%22b_nut_s%22:1776195445,%22b_nut_m%22:1776195420,%22b_nut_h%22:1776193200,%22b_nut_d%22:1776124800,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|0",
+    "timestamp": "2026-04-14T19:37:41.506342",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000171776195459398https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.selfDef.page_id||1776195459000|0|0|1920x1080|1|{%22event%22:%22page_id%22,%22value%22:%223ERAxwloghvnb800%22,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000171776195459398https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.selfDef.page_id||1776195459000|0|0|1920x1080|1|{%22event%22:%22page_id%22,%22value%22:%223ERAxwloghvnb800%22,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "timestamp": "2026-04-14T19:37:41.509542",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000171776195459399https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.selfDef.era_source||1776195459000|0|0|1920x1080|1|{%22event%22:%22era_source%22,%22value%22:null,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000171776195459399https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.selfDef.era_source||1776195459000|0|0|1920x1080|1|{%22event%22:%22era_source%22,%22value%22:null,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "timestamp": "2026-04-14T19:37:41.509913",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000171776195459400https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.selfDef.share_source||1776195459000|0|0|1920x1080|1|{%22event%22:%22share_source%22,%22value%22:null,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000171776195459400https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.selfDef.share_source||1776195459000|0|0|1920x1080|1|{%22event%22:%22share_source%22,%22value%22:null,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "timestamp": "2026-04-14T19:37:41.510271",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0133241776195458648https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.fp.risk||1776195458648|||1920x1080|1|{%22cookieEnabled%22:1,%22userAgent%22:%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Safari%2F537.36%22,%22webdriver%22:0,%22language%22:%22zh-CN%22,%22colorDepth%22:24,%22deviceMemory%22:8,%22hardwareConcurrency%22:8,%22screenResolution%22:%221920%2C%2C1080%22,%22availableScreenResolution%22:%221920%2C%2C1080%22,%22timezoneOffset%22:0,%22timezone%22:%22UTC%22,%22sessionStorage%22:1,%22localStorage%22:1,%22indexedDb%22:1,%22addBehavior%22:0,%22openDatabase%22:0,%22cpuClass%22:%22not%20available%22,%22platform%22:%22Linux%20x86_64%22,%22plugins%22:%22%22,%22canvas%22:%2294oAAAAASUVORK5CYII%3D%22,%22webgl_str%22:%22%2F%2F8cxNnQAAAAZJREFUAwA1xAD%2FyjOy7AAAAABJRU5ErkJggg%3D%3D%22,%22webgl_params%22:%22extensions%3AANGLE_instanced_arrays%3BEXT_blend_minmax%3BEXT_clip_control%3BEXT_color_buffer_half_float%3BEXT_depth_clamp%3BEXT_float_blend%3BEXT_frag_depth%3BEXT_polygon_offset_clamp%3BEXT_shader_texture_lod%3BEXT_texture_compression_bptc%3BEXT_texture_compression_rgtc%3BEXT_texture_filter_anisotropic%3BEXT_texture_mirror_clamp_to_edge%3BEXT_sRGB%3BOES_element_index_uint%3BOES_fbo_render_mipmap%3BOES_standard_derivatives%3BOES_texture_float%3BOES_texture_float_linear%3BOES_texture_half_float%3BOES_texture_half_float_linear%3BOES_vertex_array_object%3BWEBGL_color_buffer_float%3BWEBGL_compressed_texture_astc%3BWEBGL_compressed_texture_etc%3BWEBGL_compressed_texture_etc1%3BWEBGL_compressed_texture_s3tc%3BWEBGL_compressed_texture_s3tc_srgb%3BWEBGL_debug_renderer_info%3BWEBGL_debug_shaders%3BWEBGL_depth_texture%3BWEBGL_draw_buffers%3BWEBGL_lose_context%3BWEBGL_multi_draw%3BWEBGL_polygon_mode%2C%2Cwebgl%20aliased%20line%20width%20range%3A%5B1%2C%201%5D%2C%2Cwebgl%20aliased%20point%20size%20range%3A%5B1%2C%201023%5D%2C%2Cwebgl%20alpha%20bits%3A8%2C%2Cwebgl%20antialiasing%3Ayes%2C%2Cwebgl%20blue%20bits%3A8%2C%2Cwebgl%20depth%20bits%3A24%2C%2Cwebgl%20green%20bits%3A8%2C%2Cwebgl%20max%20anisotropy%3A16%2C%2Cwebgl%20max%20combined%20texture%20image%20units%3A64%2C%2Cwebgl%20max%20cube%20map%20texture%20size%3A16384%2C%2Cwebgl%20max%20fragment%20uniform%20vectors%3A4096%2C%2Cwebgl%20max%20render%20buffer%20size%3A8192%2C%2Cwebgl%20max%20texture%20image%20units%3A32%2C%2Cwebgl%20max%20texture%20size%3A8192%2C%2Cwebgl%20max%20varying%20vectors%3A31%2C%2Cwebgl%20max%20vertex%20attribs%3A16%2C%2Cwebgl%20max%20vertex%20texture%20image%20units%3A32%2C%2Cwebgl%20max%20vertex%20uniform%20vectors%3A4096%2C%2Cwebgl%20max%20viewport%20dims%3A%5B8192%2C%208192%5D%2C%2Cwebgl%20red%20bits%3A8%2C%2Cwebgl%20renderer%3AWebKit%20WebGL%2C%2Cwebgl%20shading%20language%20version%3AWebGL%20GLSL%20ES%201.0%20(OpenGL%20ES%20GLSL%20ES%201.0%20Chromium)%2C%2Cwebgl%20stencil%20bits%3A0%2C%2Cwebgl%20vendor%3AWebKit%2C%2Cwebgl%20version%3AWebGL%201.0%20(OpenGL%20ES%202.0%20Chromium)%2C%2Cwebgl%20unmasked%20vendor%3AGoogle%20Inc.%20(Google)%2C%2Cwebgl%20unmasked%20renderer%3AANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE))%2C%20SwiftShader%20driver)%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%3A23%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%20rangeMin%3A127%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%20rangeMax%3A127%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%3A10%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%3A10%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%3A23%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%20rangeMin%3A127%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%20rangeMax%3A127%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%3A10%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%3A10%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%20rangeMin%3A31%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%20rangeMax%3A30%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%20rangeMin%3A31%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%20rangeMax%3A30%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%20rangeMax%3A14%22,%22webglVendorAndRenderer%22:%22Google%20Inc.%20(Google)~ANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE))%2C%20SwiftShader%20driver)%22,%22hasLiedLanguages%22:0,%22hasLiedResolution%22:0,%22hasLiedOs%22:1,%22hasLiedBrowser%22:0,%22touchSupport%22:%220%2C%2C0%2C%2C0%22,%22fonts%22:%22%22,%22audio%22:%22124.04347527516074%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|0",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0133241776195458648https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.fp.risk||1776195458648|||1920x1080|1|{%22cookieEnabled%22:1,%22userAgent%22:%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Safari%2F537.36%22,%22webdriver%22:0,%22language%22:%22zh-CN%22,%22colorDepth%22:24,%22deviceMemory%22:8,%22hardwareConcurrency%22:8,%22screenResolution%22:%221920%2C%2C1080%22,%22availableScreenResolution%22:%221920%2C%2C1080%22,%22timezoneOffset%22:0,%22timezone%22:%22UTC%22,%22sessionStorage%22:1,%22localStorage%22:1,%22indexedDb%22:1,%22addBehavior%22:0,%22openDatabase%22:0,%22cpuClass%22:%22not%20available%22,%22platform%22:%22Linux%20x86_64%22,%22plugins%22:%22%22,%22canvas%22:%2294oAAAAASUVORK5CYII%3D%22,%22webgl_str%22:%22%2F%2F8cxNnQAAAAZJREFUAwA1xAD%2FyjOy7AAAAABJRU5ErkJggg%3D%3D%22,%22webgl_params%22:%22extensions%3AANGLE_instanced_arrays%3BEXT_blend_minmax%3BEXT_clip_control%3BEXT_color_buffer_half_float%3BEXT_depth_clamp%3BEXT_float_blend%3BEXT_frag_depth%3BEXT_polygon_offset_clamp%3BEXT_shader_texture_lod%3BEXT_texture_compression_bptc%3BEXT_texture_compression_rgtc%3BEXT_texture_filter_anisotropic%3BEXT_texture_mirror_clamp_to_edge%3BEXT_sRGB%3BOES_element_index_uint%3BOES_fbo_render_mipmap%3BOES_standard_derivatives%3BOES_texture_float%3BOES_texture_float_linear%3BOES_texture_half_float%3BOES_texture_half_float_linear%3BOES_vertex_array_object%3BWEBGL_color_buffer_float%3BWEBGL_compressed_texture_astc%3BWEBGL_compressed_texture_etc%3BWEBGL_compressed_texture_etc1%3BWEBGL_compressed_texture_s3tc%3BWEBGL_compressed_texture_s3tc_srgb%3BWEBGL_debug_renderer_info%3BWEBGL_debug_shaders%3BWEBGL_depth_texture%3BWEBGL_draw_buffers%3BWEBGL_lose_context%3BWEBGL_multi_draw%3BWEBGL_polygon_mode%2C%2Cwebgl%20aliased%20line%20width%20range%3A%5B1%2C%201%5D%2C%2Cwebgl%20aliased%20point%20size%20range%3A%5B1%2C%201023%5D%2C%2Cwebgl%20alpha%20bits%3A8%2C%2Cwebgl%20antialiasing%3Ayes%2C%2Cwebgl%20blue%20bits%3A8%2C%2Cwebgl%20depth%20bits%3A24%2C%2Cwebgl%20green%20bits%3A8%2C%2Cwebgl%20max%20anisotropy%3A16%2C%2Cwebgl%20max%20combined%20texture%20image%20units%3A64%2C%2Cwebgl%20max%20cube%20map%20texture%20size%3A16384%2C%2Cwebgl%20max%20fragment%20uniform%20vectors%3A4096%2C%2Cwebgl%20max%20render%20buffer%20size%3A8192%2C%2Cwebgl%20max%20texture%20image%20units%3A32%2C%2Cwebgl%20max%20texture%20size%3A8192%2C%2Cwebgl%20max%20varying%20vectors%3A31%2C%2Cwebgl%20max%20vertex%20attribs%3A16%2C%2Cwebgl%20max%20vertex%20texture%20image%20units%3A32%2C%2Cwebgl%20max%20vertex%20uniform%20vectors%3A4096%2C%2Cwebgl%20max%20viewport%20dims%3A%5B8192%2C%208192%5D%2C%2Cwebgl%20red%20bits%3A8%2C%2Cwebgl%20renderer%3AWebKit%20WebGL%2C%2Cwebgl%20shading%20language%20version%3AWebGL%20GLSL%20ES%201.0%20(OpenGL%20ES%20GLSL%20ES%201.0%20Chromium)%2C%2Cwebgl%20stencil%20bits%3A0%2C%2Cwebgl%20vendor%3AWebKit%2C%2Cwebgl%20version%3AWebGL%201.0%20(OpenGL%20ES%202.0%20Chromium)%2C%2Cwebgl%20unmasked%20vendor%3AGoogle%20Inc.%20(Google)%2C%2Cwebgl%20unmasked%20renderer%3AANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE))%2C%20SwiftShader%20driver)%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%3A23%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%20rangeMin%3A127%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%20rangeMax%3A127%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%3A10%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%3A10%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%3A23%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%20rangeMin%3A127%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%20rangeMax%3A127%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%3A10%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%3A10%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%20rangeMin%3A31%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%20rangeMax%3A30%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%20rangeMin%3A31%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%20rangeMax%3A30%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%20rangeMax%3A14%22,%22webglVendorAndRenderer%22:%22Google%20Inc.%20(Google)~ANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE))%2C%20SwiftShader%20driver)%22,%22hasLiedLanguages%22:0,%22hasLiedResolution%22:0,%22hasLiedOs%22:1,%22hasLiedBrowser%22:0,%22touchSupport%22:%220%2C%2C0%2C%2C0%22,%22fonts%22:%22%22,%22audio%22:%22124.04347527516074%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|0",
+    "timestamp": "2026-04-14T19:37:41.510755",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000151776195459673https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.0.0|1920x1080|1776195458018|1776195458080|1776195458080|0|0|1776195458020|1776195458020|1776195458020|1776195458020|1776195458020|0|1776195458021|1776195458075|1776195458098|1776195458087|1776195458464|1776195458487|1776195458494|1776195458666|1776195458666|1776195458672||1||{}|{%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000151776195459673https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.0.0|1920x1080|1776195458018|1776195458080|1776195458080|0|0|1776195458020|1776195458020|1776195458020|1776195458020|1776195458020|0|1776195458021|1776195458075|1776195458098|1776195458087|1776195458464|1776195458487|1776195458494|1776195458666|1776195458666|1776195458672||1||{}|{%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}",
+    "timestamp": "2026-04-14T19:37:41.514108",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/v2/log/web?content_type=pbrequest&logid=021434&disable_compression=true",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/v2/log/web",
+    "query": "content_type=pbrequest&logid=021434&disable_compression=true",
+    "timestamp": "2026-04-14T19:37:41.514489",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "text/plain",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/blackboard/era/1Cra21NxnhLjS5ji.html",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:44.027753",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000171776195464023https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.selfDef.unload||1776195464000|0|0|1920x1080|1|{%22event%22:%22unload%22,%22value%22:{%22enter%22:1776195458666,%22leave%22:1776195464023},%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000171776195464023https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2FxvQno42uu09wWtUl.html|888.136894.selfDef.unload||1776195464000|0|0|1920x1080|1|{%22event%22:%22unload%22,%22value%22:{%22enter%22:1776195458666,%22leave%22:1776195464023},%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%22F4227A17_19D8D7FD55B%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "timestamp": "2026-04-14T19:37:44.028355",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/xvQno42uu09wWtUl.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://activity.hdslb.com/blackboard/static/20200929/8a3e1fa14e30dc3be9c5324f604e5991/boxsize.01.js?v=1.0",
+    "method": "GET",
+    "domain": "activity.hdslb.com",
+    "path": "/blackboard/static/20200929/8a3e1fa14e30dc3be9c5324f604e5991/boxsize.01.js",
+    "query": "v=1.0",
+    "timestamp": "2026-04-14T19:37:44.096877",
+    "headers": {
+      "origin": "https://www.huasheng.cn",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/javascript"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=333.1339&nscode=1&versionId=1739341305266&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=333.1339&nscode=1&versionId=1739341305266&unlimit=true",
+    "timestamp": "2026-04-14T19:37:44.215854",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":-304,\"message\":\"Not Modified\"}"
+  },
+  {
+    "url": "https://i1.hdslb.com/bfs/polaris_web_conf/polaris/webcnf/event.cnf",
+    "method": "GET",
+    "domain": "i1.hdslb.com",
+    "path": "/bfs/polaris_web_conf/polaris/webcnf/event.cnf",
+    "query": "",
+    "timestamp": "2026-04-14T19:37:44.218205",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"444.8.live-room.chronos.init.before.check\":50,\"333.788.memory.timeline.performance\":50,\"444.8.live-room.uam-player.welcome.failed\":50,\"333.1334.kv-init.error\":1,\"333.1334.kv-init.pv\":1,\"333.40181.secureCollect.collectDeviceInfo\":1,\"333.40181.secureCollect.successReport\":1,\"333.40181.secureCollect.wasmProcessTime\":1,\"444.8.live-room.room-page.live-web-danmaku-tech-report\":20}"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000141776195464247https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html||888.136317.0.0|1776195464247||1920x1080|1|{%22page_id%22:%223ERAzwloghv29800%22,%22era_source%22:null,%22share_source%22:null,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}|ADC16332-6FB1-D38E-C722-DEE6108810426364247infoc|zh-CN|null|undefined",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000141776195464247https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html||888.136317.0.0|1776195464247||1920x1080|1|{%22page_id%22:%223ERAzwloghv29800%22,%22era_source%22:null,%22share_source%22:null,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}|ADC16332-6FB1-D38E-C722-DEE6108810426364247infoc|zh-CN|null|undefined",
+    "timestamp": "2026-04-14T19:37:44.259009",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=888.136317&nscode=0&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=888.136317&nscode=0&unlimit=true",
+    "timestamp": "2026-04-14T19:37:44.303280",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":-404,\"message\":\"Appkey Not Found\"}"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0133241776195464541https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.fp.risk||1776195464541|||1920x1080|1|{%22cookieEnabled%22:1,%22userAgent%22:%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Safari%2F537.36%22,%22webdriver%22:0,%22language%22:%22zh-CN%22,%22colorDepth%22:24,%22deviceMemory%22:8,%22hardwareConcurrency%22:8,%22screenResolution%22:%221920%2C%2C1080%22,%22availableScreenResolution%22:%221920%2C%2C1080%22,%22timezoneOffset%22:0,%22timezone%22:%22UTC%22,%22sessionStorage%22:1,%22localStorage%22:1,%22indexedDb%22:1,%22addBehavior%22:0,%22openDatabase%22:0,%22cpuClass%22:%22not%20available%22,%22platform%22:%22Linux%20x86_64%22,%22plugins%22:%22%22,%22canvas%22:%2294oAAAAASUVORK5CYII%3D%22,%22webgl_str%22:%22%2F%2F8cxNnQAAAAZJREFUAwA1xAD%2FyjOy7AAAAABJRU5ErkJggg%3D%3D%22,%22webgl_params%22:%22extensions%3AANGLE_instanced_arrays%3BEXT_blend_minmax%3BEXT_clip_control%3BEXT_color_buffer_half_float%3BEXT_depth_clamp%3BEXT_float_blend%3BEXT_frag_depth%3BEXT_polygon_offset_clamp%3BEXT_shader_texture_lod%3BEXT_texture_compression_bptc%3BEXT_texture_compression_rgtc%3BEXT_texture_filter_anisotropic%3BEXT_texture_mirror_clamp_to_edge%3BEXT_sRGB%3BOES_element_index_uint%3BOES_fbo_render_mipmap%3BOES_standard_derivatives%3BOES_texture_float%3BOES_texture_float_linear%3BOES_texture_half_float%3BOES_texture_half_float_linear%3BOES_vertex_array_object%3BWEBGL_color_buffer_float%3BWEBGL_compressed_texture_astc%3BWEBGL_compressed_texture_etc%3BWEBGL_compressed_texture_etc1%3BWEBGL_compressed_texture_s3tc%3BWEBGL_compressed_texture_s3tc_srgb%3BWEBGL_debug_renderer_info%3BWEBGL_debug_shaders%3BWEBGL_depth_texture%3BWEBGL_draw_buffers%3BWEBGL_lose_context%3BWEBGL_multi_draw%3BWEBGL_polygon_mode%2C%2Cwebgl%20aliased%20line%20width%20range%3A%5B1%2C%201%5D%2C%2Cwebgl%20aliased%20point%20size%20range%3A%5B1%2C%201023%5D%2C%2Cwebgl%20alpha%20bits%3A8%2C%2Cwebgl%20antialiasing%3Ayes%2C%2Cwebgl%20blue%20bits%3A8%2C%2Cwebgl%20depth%20bits%3A24%2C%2Cwebgl%20green%20bits%3A8%2C%2Cwebgl%20max%20anisotropy%3A16%2C%2Cwebgl%20max%20combined%20texture%20image%20units%3A64%2C%2Cwebgl%20max%20cube%20map%20texture%20size%3A16384%2C%2Cwebgl%20max%20fragment%20uniform%20vectors%3A4096%2C%2Cwebgl%20max%20render%20buffer%20size%3A8192%2C%2Cwebgl%20max%20texture%20image%20units%3A32%2C%2Cwebgl%20max%20texture%20size%3A8192%2C%2Cwebgl%20max%20varying%20vectors%3A31%2C%2Cwebgl%20max%20vertex%20attribs%3A16%2C%2Cwebgl%20max%20vertex%20texture%20image%20units%3A32%2C%2Cwebgl%20max%20vertex%20uniform%20vectors%3A4096%2C%2Cwebgl%20max%20viewport%20dims%3A%5B8192%2C%208192%5D%2C%2Cwebgl%20red%20bits%3A8%2C%2Cwebgl%20renderer%3AWebKit%20WebGL%2C%2Cwebgl%20shading%20language%20version%3AWebGL%20GLSL%20ES%201.0%20(OpenGL%20ES%20GLSL%20ES%201.0%20Chromium)%2C%2Cwebgl%20stencil%20bits%3A0%2C%2Cwebgl%20vendor%3AWebKit%2C%2Cwebgl%20version%3AWebGL%201.0%20(OpenGL%20ES%202.0%20Chromium)%2C%2Cwebgl%20unmasked%20vendor%3AGoogle%20Inc.%20(Google)%2C%2Cwebgl%20unmasked%20renderer%3AANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE))%2C%20SwiftShader%20driver)%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%3A23%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%20rangeMin%3A127%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%20rangeMax%3A127%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%3A10%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%3A10%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%3A23%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%20rangeMin%3A127%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%20rangeMax%3A127%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%3A10%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%3A10%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%20rangeMin%3A31%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%20rangeMax%3A30%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%20rangeMin%3A31%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%20rangeMax%3A30%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%20rangeMax%3A14%22,%22webglVendorAndRenderer%22:%22Google%20Inc.%20(Google)~ANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE))%2C%20SwiftShader%20driver)%22,%22hasLiedLanguages%22:0,%22hasLiedResolution%22:0,%22hasLiedOs%22:1,%22hasLiedBrowser%22:0,%22touchSupport%22:%220%2C%2C0%2C%2C0%22,%22fonts%22:%22%22,%22audio%22:%22124.04347527516074%22,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|0",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0133241776195464541https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.fp.risk||1776195464541|||1920x1080|1|{%22cookieEnabled%22:1,%22userAgent%22:%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Safari%2F537.36%22,%22webdriver%22:0,%22language%22:%22zh-CN%22,%22colorDepth%22:24,%22deviceMemory%22:8,%22hardwareConcurrency%22:8,%22screenResolution%22:%221920%2C%2C1080%22,%22availableScreenResolution%22:%221920%2C%2C1080%22,%22timezoneOffset%22:0,%22timezone%22:%22UTC%22,%22sessionStorage%22:1,%22localStorage%22:1,%22indexedDb%22:1,%22addBehavior%22:0,%22openDatabase%22:0,%22cpuClass%22:%22not%20available%22,%22platform%22:%22Linux%20x86_64%22,%22plugins%22:%22%22,%22canvas%22:%2294oAAAAASUVORK5CYII%3D%22,%22webgl_str%22:%22%2F%2F8cxNnQAAAAZJREFUAwA1xAD%2FyjOy7AAAAABJRU5ErkJggg%3D%3D%22,%22webgl_params%22:%22extensions%3AANGLE_instanced_arrays%3BEXT_blend_minmax%3BEXT_clip_control%3BEXT_color_buffer_half_float%3BEXT_depth_clamp%3BEXT_float_blend%3BEXT_frag_depth%3BEXT_polygon_offset_clamp%3BEXT_shader_texture_lod%3BEXT_texture_compression_bptc%3BEXT_texture_compression_rgtc%3BEXT_texture_filter_anisotropic%3BEXT_texture_mirror_clamp_to_edge%3BEXT_sRGB%3BOES_element_index_uint%3BOES_fbo_render_mipmap%3BOES_standard_derivatives%3BOES_texture_float%3BOES_texture_float_linear%3BOES_texture_half_float%3BOES_texture_half_float_linear%3BOES_vertex_array_object%3BWEBGL_color_buffer_float%3BWEBGL_compressed_texture_astc%3BWEBGL_compressed_texture_etc%3BWEBGL_compressed_texture_etc1%3BWEBGL_compressed_texture_s3tc%3BWEBGL_compressed_texture_s3tc_srgb%3BWEBGL_debug_renderer_info%3BWEBGL_debug_shaders%3BWEBGL_depth_texture%3BWEBGL_draw_buffers%3BWEBGL_lose_context%3BWEBGL_multi_draw%3BWEBGL_polygon_mode%2C%2Cwebgl%20aliased%20line%20width%20range%3A%5B1%2C%201%5D%2C%2Cwebgl%20aliased%20point%20size%20range%3A%5B1%2C%201023%5D%2C%2Cwebgl%20alpha%20bits%3A8%2C%2Cwebgl%20antialiasing%3Ayes%2C%2Cwebgl%20blue%20bits%3A8%2C%2Cwebgl%20depth%20bits%3A24%2C%2Cwebgl%20green%20bits%3A8%2C%2Cwebgl%20max%20anisotropy%3A16%2C%2Cwebgl%20max%20combined%20texture%20image%20units%3A64%2C%2Cwebgl%20max%20cube%20map%20texture%20size%3A16384%2C%2Cwebgl%20max%20fragment%20uniform%20vectors%3A4096%2C%2Cwebgl%20max%20render%20buffer%20size%3A8192%2C%2Cwebgl%20max%20texture%20image%20units%3A32%2C%2Cwebgl%20max%20texture%20size%3A8192%2C%2Cwebgl%20max%20varying%20vectors%3A31%2C%2Cwebgl%20max%20vertex%20attribs%3A16%2C%2Cwebgl%20max%20vertex%20texture%20image%20units%3A32%2C%2Cwebgl%20max%20vertex%20uniform%20vectors%3A4096%2C%2Cwebgl%20max%20viewport%20dims%3A%5B8192%2C%208192%5D%2C%2Cwebgl%20red%20bits%3A8%2C%2Cwebgl%20renderer%3AWebKit%20WebGL%2C%2Cwebgl%20shading%20language%20version%3AWebGL%20GLSL%20ES%201.0%20(OpenGL%20ES%20GLSL%20ES%201.0%20Chromium)%2C%2Cwebgl%20stencil%20bits%3A0%2C%2Cwebgl%20vendor%3AWebKit%2C%2Cwebgl%20version%3AWebGL%201.0%20(OpenGL%20ES%202.0%20Chromium)%2C%2Cwebgl%20unmasked%20vendor%3AGoogle%20Inc.%20(Google)%2C%2Cwebgl%20unmasked%20renderer%3AANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE))%2C%20SwiftShader%20driver)%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%3A23%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%20rangeMin%3A127%2C%2Cwebgl%20vertex%20shader%20high%20float%20precision%20rangeMax%3A127%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%3A10%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20medium%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%3A10%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20low%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%3A23%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%20rangeMin%3A127%2C%2Cwebgl%20fragment%20shader%20high%20float%20precision%20rangeMax%3A127%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%3A10%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20medium%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%3A10%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20low%20float%20precision%20rangeMax%3A15%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%20rangeMin%3A31%2C%2Cwebgl%20vertex%20shader%20high%20int%20precision%20rangeMax%3A30%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20medium%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%3A0%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20vertex%20shader%20low%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%20rangeMin%3A31%2C%2Cwebgl%20fragment%20shader%20high%20int%20precision%20rangeMax%3A30%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20medium%20int%20precision%20rangeMax%3A14%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%3A0%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%20rangeMin%3A15%2C%2Cwebgl%20fragment%20shader%20low%20int%20precision%20rangeMax%3A14%22,%22webglVendorAndRenderer%22:%22Google%20Inc.%20(Google)~ANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE))%2C%20SwiftShader%20driver)%22,%22hasLiedLanguages%22:0,%22hasLiedResolution%22:0,%22hasLiedOs%22:1,%22hasLiedBrowser%22:0,%22touchSupport%22:%220%2C%2C0%2C%2C0%22,%22fonts%22:%22%22,%22audio%22:%22124.04347527516074%22,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|0",
+    "timestamp": "2026-04-14T19:37:47.545816",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000171776195465245https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.selfDef.page_id||1776195465000|0|0|1920x1080|1|{%22event%22:%22page_id%22,%22value%22:%223ERAzwloghv29800%22,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000171776195465245https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.selfDef.page_id||1776195465000|0|0|1920x1080|1|{%22event%22:%22page_id%22,%22value%22:%223ERAzwloghv29800%22,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "timestamp": "2026-04-14T19:37:47.551480",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000171776195465247https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.selfDef.era_source||1776195465000|0|0|1920x1080|1|{%22event%22:%22era_source%22,%22value%22:null,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000171776195465247https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.selfDef.era_source||1776195465000|0|0|1920x1080|1|{%22event%22:%22era_source%22,%22value%22:null,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "timestamp": "2026-04-14T19:37:47.551751",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000171776195465247https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.selfDef.share_source||1776195465000|0|0|1920x1080|1|{%22event%22:%22share_source%22,%22value%22:null,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000171776195465247https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.selfDef.share_source||1776195465000|0|0|1920x1080|1|{%22event%22:%22share_source%22,%22value%22:null,%22bsource%22:%22%22,%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}|{}||null|zh-CN|null|1",
+    "timestamp": "2026-04-14T19:37:47.552026",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://data.bilibili.com/log/web?0000151776195465563https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.0.0|1920x1080|1776195464026|1776195464079|1776195464079|0|0|1776195464026|1776195464026|1776195464026|1776195464026|1776195464026|0|1776195464027|1776195464073|1776195464097|1776195464082|1776195464306|1776195464532|1776195464538|1776195464555|1776195464555|1776195464565||1||{}|{%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/log/web",
+    "query": "0000151776195465563https%3A%2F%2Fwww.huasheng.cn%2Fblackboard%2Fera%2F1Cra21NxnhLjS5ji.html|888.136317.0.0|1920x1080|1776195464026|1776195464079|1776195464079|0|0|1776195464026|1776195464026|1776195464026|1776195464026|1776195464026|0|1776195464027|1776195464073|1776195464097|1776195464082|1776195464306|1776195464532|1776195464538|1776195464555|1776195464555|1776195464565||1||{}|{%22b_nut_h%22:1776193200,%22lsid%22:%221C0625E3_19D8D7FEC2E%22,%22buvid_fp%22:%22cd2c29c22790734112542b1029d31d4f%22,%22buvid4%22:%22185453EE-A621-9253-862B-400414059F4G45202-026041503-k41M5yD2B2TCKkJu4Ba3Ww%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}",
+    "timestamp": "2026-04-14T19:37:47.553892",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/blackboard/era/1Cra21NxnhLjS5ji.html",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  }
+]
