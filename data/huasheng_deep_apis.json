@@ -1,0 +1,946 @@
+[
+  {
+    "url": "https://www.huasheng.cn/",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://i0.hdslb.com/bfs/activity-plat/static/20241209/dee300675477a7848cfc87c80806f3bd/4VrojJSh2n.jpg@124x124-5rc",
+    "method": "GET",
+    "domain": "i0.hdslb.com",
+    "path": "/bfs/activity-plat/static/20241209/dee300675477a7848cfc87c80806f3bd/4VrojJSh2n.jpg@124x124-5rc",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=333.1333&nscode=0&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=333.1333&nscode=0&unlimit=true",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"\",\"data\":{\"versionId\":\"1772162031366\",\"appVersionId\":\"37253\",\"disableUseLocalCache\":false,\"data\":{\"bilimirror.minilogin\":\"{\\\"buvid\\\":[\\\"B6771AA6-7CCD-4EF2-BA5B-1FDE9A25F49A49120infoc\\\",\\\"D025573B-8686-0D9D-48DB-0C84BBB5544A45226infoc\\\",\\\"9BD89CEC-4C19-E243-63B3-9A69417B70A458220infoc\\\",\\\"4AD0D8C7-D936-FB67-4C33-7A13C004E84478537infoc\\\",\\\"84AF2B23-9DC9-0717-A474-BCB7A866198994970infoc\\\",\\\"F4373CB5-E491-2C2A-0541-2FFFC3DF2FCC71448infoc\\\"],\\\"rate\\\":0}\",\"bilimirror.toplist\":\"{\\\"playLogUmd\\\":\\\"https://s1.hdslb.com/bfs/static/log-manipulator@0.2.1/index.js\\\",\\\"trackGray\\\":0,\\\"trackGrayV2\\\":1,\\\"resourceStats\\\":{\\\"enabled\\\":true,\\\"sampleRate\\\":0,\\\"rules\\\":[{\\\"key\\\":\\\"333.1007.main.home-page\\\",\\\"sampleRate\\\":5}]}}\",\"bilimirror.whitelist\":\"{\\\"white\\\":{\\\"rejection\\\":[\\\"extension\\\",\\\"maximum\\\",\\\"SVGIconNext\\\"],\\\"error\\\":[\\\"extension\\\",\\\"SVGIconNext\\\"],\\\"resource\\\":[\\\"extension\\\",\\\"localhost\\\"]},\\\"retry\\\":[],\\\"performance\\\":1,\\\"techpv\\\":5,\\\"poll\\\":5,\\\"userLog\\\":[],\\\"track\\\":{\\\"mid\\\":[],\\\"buvid\\\":[]},\\\"trackGrayV2\\\":1}\"}}}"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=333.40121&nscode=0&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=333.40121&nscode=0&unlimit=true",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":-404,\"message\":\"Appkey Not Found\"}"
+  },
+  {
+    "url": "https://api.huasheng.cn/x/web-interface/nav",
+    "method": "GET",
+    "domain": "api.huasheng.cn",
+    "path": "/x/web-interface/nav",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":-101,\"message\":\"账号未登录\",\"ttl\":1,\"data\":{\"isLogin\":false,\"wbi_img\":{\"img_url\":\"https://i0.hdslb.com/bfs/wbi/7cd084941338484aae1ad9425b84077c.png\",\"sub_url\":\"https://i0.hdslb.com/bfs/wbi/4932caff0ff746eab6f01bf08b70ac45.png\"},\"ip_region\":\"CN\"}}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/vip/info",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/vip/info",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"code\":401,\"reason\":\"账号未登录\",\"message\":\"账号未登录\",\"metadata\":{}}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/config",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/config",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"voices\":[{\"id\":\"5\",\"voice\":\"male-qn-jingying\",\"desc\":\"生动解说\"},{\"id\":\"6\",\"voice\":\"hutong_daye\",\"desc\":\"北京小伙\"},{\"id\":\"7\",\"voice\":\"audiobook_female_2\",\"desc\":\"新闻主播\"},{\"id\":\"8\",\"voice\":\"audiobook_male_1\",\"desc\":\"磁性男声\"},{\"id\":\"1\",\"voice\":\"zhubo\",\"desc\":\"青年主播(已下线)\"},{\"id\":\"2\",\"voice\":\"db6\",\"desc\":\"温柔女声(已下线)\"},{\"id\":\"3\",\"voice\":\"db8\",\"desc\":\"磁性男声(已下线)\"},{\"id\":\"4\",\"voice\":\"jieshuonannew\",\"desc\":\"解说男声(已下线)\"}],\"script_max\":\"10000\",\"models\":[{\"id\":\"10\",\"desc\":\"Index\"}],\"export_annotation\":false,\"user_material_max\":\"200\",\"audio_script_max\":\"50000\",\"content_markup_multiple\":\"3\",\"default_script\":\"「花生」可以做高大上的科普视频。比如，种花生要注意什么？花生是喜温作物，适宜生长在温暖湿润、排水性好的沙质壤土中，土壤酸碱度以中性为宜。它对光照和温度要求较高，生长期需要充足光照，日均气温保持在20℃以上更利于生长发育。全球核心种植区集中在北半球温带及亚热带地区，我国山东、河南、河北是主要产区，产量占全国多数，所产花生颗粒饱满、含油率高。此外，美国东南部、印度、阿根廷等国也广泛栽培。「花生」也可以讲历史。比如，花生的原产地在什么地方？花生原产于南美洲，16世纪明代中晚期经海路传入中国，福建、广东为最早引种地。小花生因耐贫瘠、适应性强，先在东南沿海扎根，清代向北推广至山东、河南等产区。明代已有煮食、炒制吃法，清代吃法更丰富，19世纪中后期大花生成为主流，花生油走入寻常百姓家，四百年间从闲食变为餐桌必备食材。「花生」还能聊聊商业财经上的财富密码。比如，中国作为全球花生产量、消费、进口三料冠军，2024年产量近1900万吨，占全球38%，年产值稳稳站上千亿级别。全球贸易中，中国既是73.4万吨的出口大户，也是151万吨的进口主力，从原料到深加工产品形成完整产业链。消费升级下，高端食用油、健康零食持续扩容，这颗小花生正撬动大市场。「花生」是一个输入文案或口播帮你自动找素材、剪辑成片的工具。不管你是喜欢用键盘噼里啪啦敲出灵感的文字大佬，还是更爱用语音滔滔不绝表达的话痨选手，都能在花生这儿找到最丝滑的创作体验。「花生」还有超多隐藏玩法等着各位解锁！赶紧去探索吧~\",\"default_voice_id\":6036542,\"report_tag\":[{\"cat_name\":\"风险\",\"tags\":[{\"tid\":\"1\",\"name\":\"敏感人物或物品\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"2\",\"name\":\"违法违规\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"3\",\"name\":\"色情低俗\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"4\",\"name\":\"引人不适\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"恶心、暴力等\"},{\"tid\":\"5\",\"name\":\"侵权\",\"is_show_more\":true,\"show_more_must\":false,\"detail\":\"著作权、肖像权等\"}]},{\"cat_name\":\"匹配\",\"tags\":[{\"tid\":\"6\",\"name\":\"重复出现\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"7\",\"name\":\"素材画风突兀\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"8\",\"name\":\"不相关\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"}]},{\"cat_name\":\"更多\",\"tags\":[{\"tid\":\"9\",\"name\":\"不清晰\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"10\",\"name\":\"有水印或字幕\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"11\",\"name\":\"黑边\",\"is_show_more\":false,\"show_more_must\":false,\"detail\":\"\"},{\"tid\":\"12\",\"name\":\"其他\",\"is_show_more\":true,\"show_more_must\":true,\"detail\":\"\"}]}],\"tts_speed_switch\":true}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/abtest?ab_var=front_montage",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/abtest",
+    "query": "ab_var=front_montage",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"ab_flag\":\"\"}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/abtest?ab_var=montage_composite",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/abtest",
+    "query": "ab_var=montage_composite",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"ab_flag\":\"\"}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/abtest?ab_var=podcast_mtq",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/abtest",
+    "query": "ab_var=podcast_mtq",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"ab_flag\":\"\"}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/abtest?ab_var=local_recall",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/abtest",
+    "query": "ab_var=local_recall",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"ab_flag\":\"\"}"
+  },
+  {
+    "url": "https://api.huasheng.cn/x/activity_components/eva_operation/list?source_id=29ERAmwloghvktd00&pn=1&ps=50",
+    "method": "GET",
+    "domain": "api.huasheng.cn",
+    "path": "/x/activity_components/eva_operation/list",
+    "query": "source_id=29ERAmwloghvktd00&pn=1&ps=50",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"0\",\"ttl\":1,\"data\":{\"list\":[{\"id\":\"30ERA4wloghviey00\",\"source_id\":\"29ERAmwloghvktd00\",\"object_id\":\"BV14NUVBTEjU\",\"object_type\":1,\"properties\":{},\"state\":1,\"children\":[],\"order_id\":21,\"ctime\":1765779297,\"mtime\":1766030691,\"author\":\"\",\"object\":{\"account\":{\"face\":\"https://i1.hdslb.com/bfs/face/c6712277697434a6dc40c0185c0108c39b2fc6fa.jpg\",\"follower\":10821849,\"following\":{\"follower\":10821849},\"is_follow\":false,\"level\":6,\"mid\":37090048,\"name\":\"哔哩哔哩创作中心\",\"official\":{\"desc\":\"\",\"role\":3,\"title\":\"哔哩哔哩创作中心官方账号\",\"type\":1},\"sex\":\"保密\",\"sign\":\"这里是跟着荣誉周报改签名赢好运的可爱创作君！用心支持创作、扶持up主成长，这里有创作中心新功能/使用指导/创作学院/激励计划一手情报！\",\"vip\":{\"avatar_icon\":{\"icon_resource\":{},\"icon_type\":1},\"avatar_subscript\":1,\"avatar_subscript_url\":\"\",\"due_date\":1960214400000,\"label\":{\"bg_color\":\"#FB7299\",\"bg_style\":1,\"border_color\":\"\",\"img_label_uri_hans\":\"\",\"img_label_uri_hans_static\":\"https://i0.hdslb.com/bfs/vip/adb599797dd171e2d3d6d012f448b49679258344.png\",\"img_label_uri_hant\":\"\",\"img_label_uri_hant_static\":\"https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/sGu57N6pgK.png\",\"label_goto\":{\"mobile\":\"https://big.bilibili.com/mobile/index?navhide=1\\u0026from_spmid=vipicon\",\"pc_web\":\"https://account.bilibili.com/big?from_spmid=vipicon\"},\"label_id\":-22,\"label_theme\":\"ten_annual_vip\",\"path\":\"http://i0.hdslb.com/bfs/vip/label_annual.png\",\"text\":\"十年大会员\",\"text_color\":\"#FFFFFF\",\"use_img_label\":true},\"nickname_color\":\"#FB7299\",\"ott_info\":{\"overdue_time\":1624118400,\"pay_channel_id\":\"alipay\",\"pay_type\":0,\"status\":0,\"vip_type\":1},\"role\":7,\"status\":1,\"super_vip\":{\"is_super_vip\":false},\"theme_type\":0,\"tv_due_date\":1624118400,\"tv_vip_pay_type\":0,\"tv_vip_status\":0,\"type\":2,\"vip_pay_type\":0}},\"aid\":115602266000356,\"attribute\":16793984,\"attribute_v2\":268500992,\"cid\":34219624936,\"copyright\":1,\"cover43\":\"http://i2.hdslb.com/bfs/archive/9b601dba1132c8946ddb9d00c4fadc106b1ddf53.jpg\",\"ctime\":1763950893,\"desc\":\"🪄即刻体验「花生」：使用电脑Chrome或Edge浏览器打开\\n🥜https://www.huasheng.cn\",\"dimension\":{\"height\":1080,\"rotate\":0,\"width\":1920},\"duration\":133,\"dynamic\":\"\",\"first_frame\":\"http://i0.hdslb.com/bfs/storyff/_0000302n9liz36gd626m8yqwyllhybb_firsti.jpg\",\"owner\":{\"face\":\"https://i1.hdslb.com/bfs/face/c6712277697434a6dc40c0185c0108c39b2fc6fa.jpg\",\"mid\":37090048,\"name\":\"哔哩哔哩创作中心\"},\"pic\":\"http://i2.hdslb.com/bfs/archive/74cd620b2df33b1bc93a7d04b13b69ab0bd3d449.jpg\",\"pid_name_v2\":\"人工智能\",\"pid_v2\":1011,\"pub_location\":\"上海\",\"pubdate\":1763964000,\"rights\":{\"arc_pay\":0,\"autoplay\":1,\"bp\":0,\"download\":0,\"elec\":0,\"hd5\":1,\"is_cooperation\":1,\"movie\":0,\"no_background\":0,\"no_reprint\":1,\"pay\":0,\"pay_free_watch\":0,\"ugc_pay\":0,\"ugc_pay_preview\":0},\"short_link_v2\":\"https://b23.tv/BV14NUVBTEjU\",\"stat\":{\"aid\":115602266000356,\"coin\":556,\"danmaku\":29,\"dislike\":0,\"fav_g\":32,\"favorite\":1935,\"his_rank\":0,\"like\":2990,\"like_g\":1,\"now_rank\":0,\"reply\":570,\"share\":460,\"view\":95495,\"vt\":59957,\"vv\":95495},\"state\":0,\"tid\":230,\"tidv2\":2098,\"title\":\"请喂我花生！视频创作工具上线\",\"tname\":\"软件应用\",\"tnamev2\":\"AI杂谈\",\"videos\":1,\"vt_display\":"
+  },
+  {
+    "url": "https://s1.hdslb.com/bfs/seed/jinkela/short/cols/iframe.html",
+    "method": "GET",
+    "domain": "s1.hdslb.com",
+    "path": "/bfs/seed/jinkela/short/cols/iframe.html",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "referer": "https://www.huasheng.cn/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://i0.hdslb.com/bfs/polaris_web_conf/polaris/webcnf/event.cnf",
+    "method": "GET",
+    "domain": "i0.hdslb.com",
+    "path": "/bfs/polaris_web_conf/polaris/webcnf/event.cnf",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"444.8.live-room.chronos.init.before.check\":50,\"333.788.memory.timeline.performance\":50,\"444.8.live-room.uam-player.welcome.failed\":50,\"333.1334.kv-init.error\":1,\"333.1334.kv-init.pv\":1,\"333.40181.secureCollect.collectDeviceInfo\":1,\"333.40181.secureCollect.successReport\":1,\"333.40181.secureCollect.wasmProcessTime\":1,\"444.8.live-room.room-page.live-web-danmaku-tech-report\":20}"
+  },
+  {
+    "url": "https://api.bilibili.com/x/frontend/finger/spi_v2",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/frontend/finger/spi_v2",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"data\":{\"b_3\":\"143E0AF9-46E1-41A5-720C-47D0549B5B9A56655infoc\",\"b_4\":\"0C3419E0-AC33-B6D9-7DC4-06073ACC500G56655-026041503-k41M5yD2B2TCKkJu4Ba3Ww==\"},\"message\":\"ok\"}"
+  },
+  {
+    "url": "https://data.huasheng.cn/v2/log/web?content_type=pbrequest&logid=021436&disable_compression=true",
+    "method": "POST",
+    "domain": "data.huasheng.cn",
+    "path": "/v2/log/web",
+    "query": "content_type=pbrequest&logid=021436&disable_compression=true",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "text/plain",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://api.bilibili.com/x/internal/gaia-gateway/ExGetAxe",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/internal/gaia-gateway/ExGetAxe",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"0\",\"ttl\":1,\"data\":{\"version\":\"v1\",\"public_key\":\"-----BEGIN rsa public key-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA1SomDTbicibEZdRNTFIf\\nG0MZI9Vm+VLvXvoS6YGtHkMexd+O8ImALMxiMkydZ0h5XPPfiUXGiyfWawVW1Q6Q\\nL8E9HV8tXgI82zMc/2ZnAyAp5dACWfcsqF1lH4hh63W424c9EJ/Ryqk4ZFss+vDr\\nn33+FN1LOyJtg8nPqCt9DN9PFaRvJTEXT0Bt2ZQTiSznHPIpalgHUNsg1OPV3ou9\\n5ahf5CpRl89QeIptrbObEqsmRqC0rDwsMUhY1NnvPKGYnCqOWl006q6OBP77qHa9\\nHRLZS0EuCEuLUnKRQq2vbbpqKrgIQln+HjMy4oIjV7Bdv9e6SJSxwausegaCQ+pt\\nIzy6O41iIQSISCRf+2iywvKGxvi3Jhhc39GxvhBPl9W3QF4knJmWHHbqAb94mDNE\\nT0GzjbU6c3j7FJcC2JjK7PeC44+VSyiY7N+9Dc0ulw7OIoigPl+R6zyWEPCdKems\\n9Cd8vn/njM+o7BRaBzyqJSYSOjQQiQHJYzcMRhhue/2W1wSx2S9Ry/zNvpP/Qapw\\n4Z6IlDt+wL9omIwcFMndUruAaRKQEDgDRKZHspUIRkXhCiaV4MwUH1rF6EFq8BRc\\nIsoS5O0o8ew5mzW81q2I1Mkvx2wDRyX9+zlVBMkKAvv3xMzU5l7sUM1eP3tw3mhg\\n6D6utwZfuFFb7Zj1oGJq4VMCAwEAAQ==\\n-----END rsa public key-----\",\"deadline\":2524608000}}"
+  },
+  {
+    "url": "https://api.bilibili.com/x/internal/gaia-gateway/ExClimbCongLing",
+    "method": "POST",
+    "domain": "api.bilibili.com",
+    "path": "/x/internal/gaia-gateway/ExClimbCongLing",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "accept-language": "zh-CN,zh;q=0.8,en;q=0.7",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "accept": "application/json; charset=utf-8; */*;",
+      "content-type": "application/json"
+    },
+    "post_data": "{\"header\":{\"encode_type\":2,\"payload_type\":4,\"encoded_aes_key\":\"wgAkskA2fQfjsx3QU4TI+mAjMT7Zf1WhWcAg8+inBbiZo93lNgjKw0hX6zWl84qsYAVFLeDPH6RUKzyJ/abYgIZ3vRi+gK4Pp70YKxXGJ6P7d4bPidVJbidUE5x5AM+sfj81Q6qqFePCch6QZ+pyKE+y0GtGFJplBQeQ+5QIsArTVLkuzJgstenZnTTEe8ld8LV178llt0MU2waZnRTxSKqxUqfIh9B5vlxVQi7ulDQ/gGW53HiB1mX7XrApJ7t909dHuWxgYrUWE0Vf+xR31OfvkPJRnZ8u0CuSixDn9N4y1Bg9wmec+rTWNdplO6ZrsClZ27MG9smO6Gm0VgEGtxNWx9BF1KF3xDlrruRZamDoOAoJV7EvAfmofTNGvLhl4IAB4381vg5S520pI80CpbC003Rq0VhysoK/XQZ3RuyCKsvHjGnnAtKtUDJElTnuBVSmSKtnXvM8U+ymDsMaOSWA7uS89SmVOnzEE16F5HGTkddUh9tlVvzJUg5otZ0IBbqR0ChgxQcT9s8fqHRE+wp9UqYslhIn1Uco67GIVFZkLo1Hk/KgeTOXFV5JmRbEeCNV+hgDQIJLS0ZshleIip8qBlKu7tZz5yzkzJ9+SN+KyVB9Nd8YTiN83UQfRmWduTq5gAaojgQPWBFzDwKrizJVK+lyZn7LbiNKG4FHEaY=\",\"ts\":1776195557185,\"encoded_version\":\"v1\"},\"encrypt_payload\":\"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",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"0\",\"ttl\":1,\"data\":{}}"
+  },
+  {
+    "url": "https://data.huasheng.cn/v2/log/web?content_type=pbrequest&logid=021434&disable_compression=true",
+    "method": "POST",
+    "domain": "data.huasheng.cn",
+    "path": "/v2/log/web",
+    "query": "content_type=pbrequest&logid=021434&disable_compression=true",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "text/plain",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://www.huasheng.cn/create",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/create",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/ai",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/ai",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/video",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/video",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 301,
+    "content_type": "text/html"
+  },
+  {
+    "url": "http://www.huasheng.cn/video/",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/video/",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 301,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://www.huasheng.cn/video/",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/video/",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://api.bilibili.com/x/kv-frontend/namespace/data?appKey=333.1333&nscode=0&versionId=1772162031366&unlimit=true",
+    "method": "GET",
+    "domain": "api.bilibili.com",
+    "path": "/x/kv-frontend/namespace/data",
+    "query": "appKey=333.1333&nscode=0&versionId=1772162031366&unlimit=true",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":-304,\"message\":\"Not Modified\"}"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/material/tts/list?category_id=0",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/material/tts/list",
+    "query": "category_id=0",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/video/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"materials\":[{\"id\":\"5866403\",\"name\":\"生动解说\",\"cover\":\"http://i0.hdslb.com/bfs/creative/89565011aae04a4acd0dfb6d2e36366fc820895d.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"male-qn-jingying\\\",\\\"speech_rate\\\":10,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"2022年的经济震荡史无前例，各国央行疲于应对接踵而至的危机。IMF的衰退预警犹在耳畔。\\\"}\",\"state\":0,\"rank\":\"1\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1732531084\",\"mtime\":\"1753861750\",\"cat_id\":\"1740254\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"高昂有力\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/dc27319c-e3d3-4e2a-9bca-bf14b466b139.wav\\\",\\\"outter_model\\\":\\\"speech-02-hd\\\"}\",\"sdk_tag\":false,\"pool_rank\":\"1\"},{\"id\":\"5866601\",\"name\":\"清亮男声\",\"cover\":\"http://i0.hdslb.com/bfs/creative/763c41674d114b0382d1d643fef3e94f3bb58204.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"male-qn-qingse\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"堂食与外卖呈现出截然不同的商业逻辑。这种差异要求餐饮企业必须采取双轨制运营策略，才能同时抓住两类消费群体。\\\"}\",\"state\":0,\"rank\":\"2\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1732537526\",\"mtime\":\"1763546068\",\"cat_id\":\"1740254\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"高昂有力\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/dbe5bb45-4c96-480f-b138-0fc0b1010730.wav\\\",\\\"outter_model\\\":\\\"speech-01-hd\\\"}\",\"sdk_tag\":false,\"pool_rank\":\"2\"},{\"id\":\"5866096\",\"name\":\" 休闲学姐\",\"cover\":\"http://i0.hdslb.com/bfs/creative/7c25d0bfc58cb4df61630d4a226b6ea3494ab6ba.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"Podcast_girl_platform\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":40,\\\"raw_data\\\":\\\"古希腊文明始终笼罩着神秘面纱，从荷马史诗到德尔斐神谕，从雅典卫城到特洛伊战争，这个民族仍以其传奇色彩吸引着世人探寻。\\\"}\",\"state\":0,\"rank\":\"3\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1732525033\",\"mtime\":\"1763627040\",\"cat_id\":\"1740253\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"冷静深沉\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/e445ecfa-bc04-4041-9abb-285d684c36ed.wav\\\",\\\"outter_model\\\":\\\"speech-01-hd\\\"}\",\"sdk_tag\":false,\"pool_rank\":\"3\"},{\"id\":\"6036554\",\"name\":\"磁性男音\",\"cover\":\"http://i0.hdslb.com/bfs/creative/09c4b2888471e50c1d09e3cb247064713bec7528.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"doc_commentary\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"今天我想分享的是川内优辉的故事：一位用十年跑完百场马拉松的公务员，如何逆袭成为世界冠军，证明普通人也能战胜顶尖专业运动员。\\\"}\",\"state\":0,\"rank\":\"3\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1763541047\",\"mtime\":\"1763714223\",\"cat_id\":\"1740254\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"专业沉稳\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/806f4b27-4232-4ad7-811a-e089ac470510.wav\\\",\\\"outter_model\\\":\\\"speech-01-"
+  },
+  {
+    "url": "https://www.huasheng.cn/project.txt?_rsc=2s9ux",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/project.txt",
+    "query": "_rsc=2s9ux",
+    "headers": {
+      "rsc": "1",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/video/",
+      "accept-language": "zh-CN",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "next-router-prefetch": "1",
+      "next-router-state-tree": "%5B%22%22%2C%7B%22children%22%3A%5B%22video%22%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%2Ctrue%5D",
+      "next-url": "/video",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/material/tts/list?category_id=1740254",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/material/tts/list",
+    "query": "category_id=1740254",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/video/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"materials\":[{\"id\":\"5866403\",\"name\":\"生动解说\",\"cover\":\"http://i0.hdslb.com/bfs/creative/89565011aae04a4acd0dfb6d2e36366fc820895d.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"male-qn-jingying\\\",\\\"speech_rate\\\":10,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"2022年的经济震荡史无前例，各国央行疲于应对接踵而至的危机。IMF的衰退预警犹在耳畔。\\\"}\",\"state\":0,\"rank\":\"1\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1732531084\",\"mtime\":\"1753861750\",\"cat_id\":\"1740254\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"高昂有力\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/dc27319c-e3d3-4e2a-9bca-bf14b466b139.wav\\\",\\\"outter_model\\\":\\\"speech-02-hd\\\"}\",\"sdk_tag\":false,\"pool_rank\":\"1\"},{\"id\":\"5866601\",\"name\":\"清亮男声\",\"cover\":\"http://i0.hdslb.com/bfs/creative/763c41674d114b0382d1d643fef3e94f3bb58204.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"male-qn-qingse\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"堂食与外卖呈现出截然不同的商业逻辑。这种差异要求餐饮企业必须采取双轨制运营策略，才能同时抓住两类消费群体。\\\"}\",\"state\":0,\"rank\":\"3\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1732537526\",\"mtime\":\"1763546068\",\"cat_id\":\"1740254\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"高昂有力\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/dbe5bb45-4c96-480f-b138-0fc0b1010730.wav\\\",\\\"outter_model\\\":\\\"speech-01-hd\\\"}\",\"sdk_tag\":false,\"pool_rank\":\"2\"},{\"id\":\"6036554\",\"name\":\"磁性男音\",\"cover\":\"http://i0.hdslb.com/bfs/creative/09c4b2888471e50c1d09e3cb247064713bec7528.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"doc_commentary\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"今天我想分享的是川内优辉的故事：一位用十年跑完百场马拉松的公务员，如何逆袭成为世界冠军，证明普通人也能战胜顶尖专业运动员。\\\"}\",\"state\":0,\"rank\":\"2\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1763541047\",\"mtime\":\"1763714223\",\"cat_id\":\"1740254\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"专业沉稳\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/806f4b27-4232-4ad7-811a-e089ac470510.wav\\\",\\\"outter_model\\\":\\\"speech-01-hd\\\"}\",\"sdk_tag\":false,\"pool_rank\":\"3\"},{\"id\":\"6036542\",\"name\":\"清朗青年\",\"cover\":\"http://i0.hdslb.com/bfs/creative/cecb671f24a678224a5bbf61178b16ad32305980.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"shuaibing0825_speech02\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"在金本位体系下，美国一举掌握了全球近一半的黄金储备，五年内促使美元的发行量激增了四倍。\\\"}\",\"state\":0,\"rank\":\"4\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1763469695\",\"mtime\":\"1763643756\",\"cat_id\":\"1740254\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"活力向上\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/d3d1bd03-398d-4b05-ae6a-72d00785c700.wav\\\",\\\"outter_model\\\":\\\"speech-01-hd\\\"}\",\"sdk_tag"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/material/tts/list?category_id=1740253",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/material/tts/list",
+    "query": "category_id=1740253",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/video/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"materials\":[{\"id\":\"5866096\",\"name\":\" 休闲学姐\",\"cover\":\"http://i0.hdslb.com/bfs/creative/7c25d0bfc58cb4df61630d4a226b6ea3494ab6ba.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"Podcast_girl_platform\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":40,\\\"raw_data\\\":\\\"古希腊文明始终笼罩着神秘面纱，从荷马史诗到德尔斐神谕，从雅典卫城到特洛伊战争，这个民族仍以其传奇色彩吸引着世人探寻。\\\"}\",\"state\":0,\"rank\":\"1\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1732525033\",\"mtime\":\"1763627040\",\"cat_id\":\"1740253\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"冷静深沉\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/e445ecfa-bc04-4041-9abb-285d684c36ed.wav\\\",\\\"outter_model\\\":\\\"speech-01-hd\\\"}\",\"sdk_tag\":false,\"pool_rank\":\"3\"},{\"id\":\"6036548\",\"name\":\"元气妹妹\",\"cover\":\"http://i0.hdslb.com/bfs/creative/85214d6493bf2ecccf09daae70c5fb16425bcde6.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"ai_dj_f_01\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"牛奶中富含的乳铁蛋白，与母乳中的乳铁蛋白具有相同功效，能促进铁吸收和增强免疫力。\\\"}\",\"state\":0,\"rank\":\"10\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1763471520\",\"mtime\":\"1764318859\",\"cat_id\":\"1740253\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"如沐春风\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/0acecbd2-4a8b-492b-820b-859751ca3dec.wav\\\",\\\"outter_model\\\":\\\"speech-01-hd\\\"}\",\"sdk_tag\":false,\"pool_rank\":\"5\"},{\"id\":\"6036551\",\"name\":\"职场精英\",\"cover\":\"http://i0.hdslb.com/bfs/creative/6232337e61f1ab876611c8bf0f920ef4e65767c2.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"xumin0825_speech02\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"中国移动支付仅用十年，就以惊人的普及效率和技术突破，彻底颠覆了全球金融交易方式。其成就不仅是金融科技史上的速度神话，更是无法复制的时代标杆。\\\"}\",\"state\":0,\"rank\":\"3\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1763471873\",\"mtime\":\"1763715151\",\"cat_id\":\"1740253\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"掷地有声\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/ef4b4f28-a113-4fc6-b3aa-f2f1116bc617.wav\\\",\\\"outter_model\\\":\\\"speech-01-hd\\\"}\",\"sdk_tag\":false,\"pool_rank\":\"7\"},{\"id\":\"6036547\",\"name\":\"清甜少女\",\"cover\":\"http://i0.hdslb.com/bfs/creative/3e1c52c6eaf96f915cb5fa42374cf5ab555e4808.png\",\"download_url\":\"\",\"extra\":\"{\\\"voice_type\\\":2,\\\"voice\\\":\\\"dj_f_0921_speech02\\\",\\\"speech_rate\\\":12,\\\"sample_rate\\\":0,\\\"pitch_rate\\\":0,\\\"volume\\\":30,\\\"raw_data\\\":\\\"1953年上映的《罗马假日》以其浪漫动人的爱情故事将罗马这座城市的独特风貌与浪漫氛围展现得淋漓尽致，堪称是罗马的一张浪漫名片。\\\"}\",\"state\":0,\"rank\":\"6\",\"material_type\":\"27\",\"tags\":\"\",\"biz_from\":\"10\",\"up_from\":\"0\",\"ctime\":\"1763471375\",\"mtime\":\"1764318859\",\"cat_id\":\"1740253\",\"op_tag\":\"\",\"apply_for\":\"1\",\"show_cnt\":\"0\",\"apply_biz\":\"0\",\"template_from\":\"0\",\"pool_extra\":\"{\\\"tts_tags\\\":\\\"恬静治愈\\\",\\\"preview_url\\\":\\\"http://boss.hdslb.com/material/2668e541-68dc-4d10-b10d-b199f6504177.wav\\\",\\\"outter_mo"
+  },
+  {
+    "url": "https://s1.hdslb.com/bfs/static/innovideo/_next/static/media/jassub-worker.55028256.wasm",
+    "method": "GET",
+    "domain": "s1.hdslb.com",
+    "path": "/bfs/static/innovideo/_next/static/media/jassub-worker.55028256.wasm",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/wasm"
+  },
+  {
+    "url": "https://www.huasheng.cn/api/innovideo/project/info?pid=undefined",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/api/innovideo/project/info",
+    "query": "pid=undefined",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/video/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body": "{\"code\":400,\"reason\":\"CODEC\",\"message\":\"parsing field \\\"pid\\\": strconv.ParseInt: parsing \\\"undefined\\\": invalid syntax\",\"metadata\":{}}"
+  },
+  {
+    "url": "https://www.huasheng.cn/index.txt?_rsc=189i4",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/index.txt",
+    "query": "_rsc=189i4",
+    "headers": {
+      "rsc": "1",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/video/",
+      "accept-language": "zh-CN",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "next-router-state-tree": "%5B%22%22%2C%7B%22children%22%3A%5B%22video%22%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%2Ctrue%5D",
+      "next-url": "/video",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://www.huasheng.cn/workspace",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/workspace",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/draft",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/draft",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/template",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/template",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/voice",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/voice",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/sound",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/sound",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/material",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/material",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/help",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/help",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/user",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/user",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/account",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/account",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/vip",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/vip",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://www.huasheng.cn/pricing",
+    "method": "GET",
+    "domain": "www.huasheng.cn",
+    "path": "/pricing",
+    "query": "",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 404,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://passport.huasheng.cn/x/passport-login/web/qrcode/generate?source=ttv_pc&go_url=https:%2F%2Fwww.huasheng.cn%2F&web_location=333.40121&x-bili-locale-json=%7B%22c_locale%22:%7B%22language%22:%22zh%22,%22region%22:%22CN%22%7D,%22always_translate%22:true%7D",
+    "method": "GET",
+    "domain": "passport.huasheng.cn",
+    "path": "/x/passport-login/web/qrcode/generate",
+    "query": "source=ttv_pc&go_url=https:%2F%2Fwww.huasheng.cn%2F&web_location=333.40121&x-bili-locale-json=%7B%22c_locale%22:%7B%22language%22:%22zh%22,%22region%22:%22CN%22%7D,%22always_translate%22:true%7D",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"OK\",\"ttl\":1,\"data\":{\"url\":\"https://account.bilibili.com/h5/account-h5/auth/scan-web?navhide=1\\u0026callback=close\\u0026qrcode_key=28d78cebbb748722dbe13d9d9f3ca98f\\u0026from=ttv_pc\",\"qrcode_key\":\"28d78cebbb748722dbe13d9d9f3ca98f\"}}"
+  },
+  {
+    "url": "https://passport.huasheng.cn/x/passport-login/captcha?source=ttv_pc&t=0.5804962079647926&web_location=333.40121&x-bili-locale-json=%7B%22c_locale%22:%7B%22language%22:%22zh%22,%22region%22:%22CN%22%7D,%22always_translate%22:true%7D",
+    "method": "GET",
+    "domain": "passport.huasheng.cn",
+    "path": "/x/passport-login/captcha",
+    "query": "source=ttv_pc&t=0.5804962079647926&web_location=333.40121&x-bili-locale-json=%7B%22c_locale%22:%7B%22language%22:%22zh%22,%22region%22:%22CN%22%7D,%22always_translate%22:true%7D",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"OK\",\"ttl\":1,\"data\":{\"type\":\"geetest\",\"token\":\"47be5f0676a94c469bf523d16c5e9ef2\",\"geetest\":{\"challenge\":\"a0ec1ca026b88146766a65b4ca4ee640\",\"gt\":\"ac597a4506fee079629df5d8b66dd4fe\"},\"tencent\":{\"appid\":\"\"}}}"
+  },
+  {
+    "url": "https://api.bilibili.com/bapis/bilibili.api.ticket.v1.Ticket/GenWebTicket?key_id=ec02&hexsign=79922d9dfbdf7aeed1e41dc6fc1e8d9a419be99153438fa0115efe98e0eddf85&context[ts]=1776195642&csrf=",
+    "method": "POST",
+    "domain": "api.bilibili.com",
+    "path": "/bapis/bilibili.api.ticket.v1.Ticket/GenWebTicket",
+    "query": "key_id=ec02&hexsign=79922d9dfbdf7aeed1e41dc6fc1e8d9a419be99153438fa0115efe98e0eddf85&context[ts]=1776195642&csrf=",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": "{\"biliCSRF\":\"\"}",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"OK\",\"data\":{\"ticket\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzY0NTQ4NDIsImlhdCI6MTc3NjE5NTU4MiwicGx0IjotMX0.Uh9aCPmOi4XbZRbYhcayMBDOe85VfTbu6VA-4k2Le2o\",\"created_at\":1776195582,\"ttl\":259200,\"context\":{},\"nav\":{\"img\":\"https://i0.hdslb.com/bfs/wbi/7cd084941338484aae1ad9425b84077c.png\",\"sub\":\"https://i0.hdslb.com/bfs/wbi/4932caff0ff746eab6f01bf08b70ac45.png\"}},\"ttl\":1}"
+  },
+  {
+    "url": "https://api.bilibili.com/x/internal/gaia-gateway/ExClimbWuzhi",
+    "method": "POST",
+    "domain": "api.bilibili.com",
+    "path": "/x/internal/gaia-gateway/ExClimbWuzhi",
+    "query": "",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "application/json;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": "{\"payload\":\"{\\\"5062\\\":1776195642552,\\\"39c8\\\":\\\"333.40121.fp.risk\\\",\\\"920b\\\":\\\"0\\\",\\\"df35\\\":\\\"143E0AF9-46E1-41A5-720C-47D0549B5B9A56655infoc\\\",\\\"03bf\\\":\\\"https://www.huasheng.cn/\\\",\\\"6e7c\\\":\\\"1920x1080\\\",\\\"3c43\\\":{\\\"2673\\\":0,\\\"5766\\\":24,\\\"6527\\\":0,\\\"7003\\\":1,\\\"807e\\\":1,\\\"b8ce\\\":\\\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\\\",\\\"641c\\\":0,\\\"07a4\\\":\\\"zh-CN\\\",\\\"1c57\\\":8,\\\"0bd0\\\":8,\\\"748e\\\":[1920,1080],\\\"d61f\\\":[1920,1080],\\\"fc9d\\\":0,\\\"6aa9\\\":\\\"UTC\\\",\\\"75b8\\\":1,\\\"3b21\\\":1,\\\"8a1c\\\":0,\\\"d52f\\\":\\\"not available\\\",\\\"adca\\\":\\\"Linux x86_64\\\",\\\"80c9\\\":[],\\\"13ab\\\":\\\"94oAAAAASUVORK5CYII=\\\",\\\"bfe9\\\":\\\"//8cxNnQAAAAZJREFUAwA1xAD/yjOy7AAAAABJRU5ErkJggg==\\\",\\\"a3c1\\\":[\\\"extensions:ANGLE_instanced_arrays;EXT_blend_minmax;EXT_clip_control;EXT_color_buffer_half_float;EXT_depth_clamp;EXT_float_blend;EXT_frag_depth;EXT_polygon_offset_clamp;EXT_shader_texture_lod;EXT_texture_compression_bptc;EXT_texture_compression_rgtc;EXT_texture_filter_anisotropic;EXT_texture_mirror_clamp_to_edge;EXT_sRGB;OES_element_index_uint;OES_fbo_render_mipmap;OES_standard_derivatives;OES_texture_float;OES_texture_float_linear;OES_texture_half_float;OES_texture_half_float_linear;OES_vertex_array_object;WEBGL_color_buffer_float;WEBGL_compressed_texture_astc;WEBGL_compressed_texture_etc;WEBGL_compressed_texture_etc1;WEBGL_compressed_texture_s3tc;WEBGL_compressed_texture_s3tc_srgb;WEBGL_debug_renderer_info;WEBGL_debug_shaders;WEBGL_depth_texture;WEBGL_draw_buffers;WEBGL_lose_context;WEBGL_multi_draw;WEBGL_polygon_mode\\\",\\\"webgl aliased line width range:[1, 1]\\\",\\\"webgl aliased point size range:[1, 1023]\\\",\\\"webgl alpha bits:8\\\",\\\"webgl antialiasing:yes\\\",\\\"webgl blue bits:8\\\",\\\"webgl depth bits:24\\\",\\\"webgl green bits:8\\\",\\\"webgl max anisotropy:16\\\",\\\"webgl max combined texture image units:64\\\",\\\"webgl max cube map texture size:16384\\\",\\\"webgl max fragment uniform vectors:4096\\\",\\\"webgl max render buffer size:8192\\\",\\\"webgl max texture image units:32\\\",\\\"webgl max texture size:8192\\\",\\\"webgl max varying vectors:31\\\",\\\"webgl max vertex attribs:16\\\",\\\"webgl max vertex texture image units:32\\\",\\\"webgl max vertex uniform vectors:4096\\\",\\\"webgl max viewport dims:[8192, 8192]\\\",\\\"webgl red bits:8\\\",\\\"webgl renderer:WebKit WebGL\\\",\\\"webgl shading language version:WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)\\\",\\\"webgl stencil bits:0\\\",\\\"webgl vendor:WebKit\\\",\\\"webgl version:WebGL 1.0 (OpenGL ES 2.0 Chromium)\\\",\\\"webgl unmasked vendor:Google Inc. (Google)\\\",\\\"webgl unmasked renderer:ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)\\\",\\\"webgl vertex shader high float precision:23\\\",\\\"webgl vertex shader high float precision rangeMin:127\\\",\\\"webgl vertex shader high float precision rangeMax:127\\\",\\\"webgl vertex shader medium float precision:10\\\",\\\"webgl vertex shader medium float precision rangeMin:15\\\",\\\"webgl vertex shader medium float precision rangeMax:15\\\",\\\"webgl vertex shader low float precision:10\\\",\\\"webgl vertex shader low float precision rangeMin:15\\\",\\\"webgl vertex shader low float precision rangeMax:15\\\",\\\"webgl fragment shader high float precision:23\\\",\\\"webgl fragment shader high float precision rangeMin:127\\\",\\\"webgl fragment shader high float precision rangeMax:127\\\",\\\"webgl fragment shader medium float precision:10\\\",\\\"webgl fragment shader medium float precision rangeMin:15\\\",\\\"webgl fragment shader medium float precision rangeMax:15\\\",\\\"webgl fragment shader low float precision:10\\\",\\\"webgl fragment shader low float precision rangeMin:15\\\",\\\"webgl fragment shader low float precision rangeMax:15\\\",\\\"webgl vertex shader high int precision:0\\\",\\\"webgl vertex shader high int precision rangeMin:31\\\",\\\"webgl vertex shader high int precision rangeMax:30\\\",\\\"webgl vertex shader medium int precision:0\\\",\\\"webgl vertex shader medium int precision rangeMin:15\\\",\\\"webgl vertex shader medium int precision rangeMax:14\\\",\\\"webgl vertex shader low int precision:0\\\",\\\"webgl vertex shader low int precision rangeMin:15\\\",\\\"webgl vertex shader low int precision rangeMax:14\\\",\\\"webgl fragment shader high int precision:0\\\",\\\"webgl fragment shader high int precision rangeMin:31\\\",\\\"webgl fragment shader high int precision rangeMax:30\\\",\\\"webgl fragment shader medium int precision:0\\\",\\\"webgl fragment shader medium int precision rangeMin:15\\\",\\\"webgl fragment shader medium int precision rangeMax:14\\\",\\\"webgl fragment shader low int precision:0\\\",\\\"webgl fragment shader low int precision rangeMin:15\\\",\\\"webgl fragment shader low int precision rangeMax:14\\\"],\\\"6bc5\\\":\\\"Google Inc. (Google)~ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)\\\",\\\"ed31\\\":0,\\\"72bd\\\":1,\\\"097b\\\":0,\\\"52cd\\\":[0,0,0],\\\"a658\\\":[],\\\"d02f\\\":\\\"124.04347527516074\\\"}}\"}",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"0\",\"ttl\":1,\"data\":{}}"
+  },
+  {
+    "url": "https://data.bilibili.com/v2/log/web?content_type=pbrequest&logid=021434&disable_compression=true",
+    "method": "POST",
+    "domain": "data.bilibili.com",
+    "path": "/v2/log/web",
+    "query": "content_type=pbrequest&logid=021434&disable_compression=true",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "text/plain",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://api.bilibili.com/bapis/bilibili.api.ticket.v1.Ticket/GenWebTicket?key_id=ec02&hexsign=691a71c2a0869aac7d8ce072a32c0a9677f71e9c34e2171219c5587767891fdf&context[ts]=1776195644&csrf=",
+    "method": "POST",
+    "domain": "api.bilibili.com",
+    "path": "/bapis/bilibili.api.ticket.v1.Ticket/GenWebTicket",
+    "query": "key_id=ec02&hexsign=691a71c2a0869aac7d8ce072a32c0a9677f71e9c34e2171219c5587767891fdf&context[ts]=1776195644&csrf=",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": "{\"biliCSRF\":\"\"}",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"OK\",\"data\":{\"ticket\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzY0NTQ4NDQsImlhdCI6MTc3NjE5NTU4NCwicGx0IjotMX0.Auajve6vpq9MrZbO1UMjmhAvAaVPrENfDLCTzWHbraY\",\"created_at\":1776195584,\"ttl\":259200,\"context\":{},\"nav\":{\"img\":\"https://i0.hdslb.com/bfs/wbi/7cd084941338484aae1ad9425b84077c.png\",\"sub\":\"https://i0.hdslb.com/bfs/wbi/4932caff0ff746eab6f01bf08b70ac45.png\"}},\"ttl\":1}"
+  },
+  {
+    "url": "https://passport.huasheng.cn/x/passport-login/web/qrcode/poll?qrcode_key=28d78cebbb748722dbe13d9d9f3ca98f&source=ttv_pc&web_location=333.40121&x-bili-locale-json=%7B%22c_locale%22:%7B%22language%22:%22zh%22,%22region%22:%22CN%22%7D,%22always_translate%22:true%7D&b_ret=94oAAAAASUVORK5CYII%3D%2F%2F8cxNnQAAAAZJREFUAwA1xAD%2FyjOy7AAAAABJRU5ErkJggg%3D%3D",
+    "method": "GET",
+    "domain": "passport.huasheng.cn",
+    "path": "/x/passport-login/web/qrcode/poll",
+    "query": "qrcode_key=28d78cebbb748722dbe13d9d9f3ca98f&source=ttv_pc&web_location=333.40121&x-bili-locale-json=%7B%22c_locale%22:%7B%22language%22:%22zh%22,%22region%22:%22CN%22%7D,%22always_translate%22:true%7D&b_ret=94oAAAAASUVORK5CYII%3D%2F%2F8cxNnQAAAAZJREFUAwA1xAD%2FyjOy7AAAAABJRU5ErkJggg%3D%3D",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.huasheng.cn/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body": "{\"code\":0,\"message\":\"OK\",\"ttl\":1,\"data\":{\"url\":\"\",\"refresh_token\":\"\",\"timestamp\":0,\"code\":86101,\"message\":\"未扫码\"}}"
+  }
+]
